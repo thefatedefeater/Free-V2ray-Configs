@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.71:2375#US579%201.9MB%2Fs
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.24.181:80#%E6%9C%AA%E7%9F%A51853
 ss://YWVzLTI1Ni1nY206d1JzS2VURmNBUTBBY0ZCeG9XeVl2Ug==@5.252.21.191:47760#%E6%9C%AA%E7%9F%A51854
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTg1NSA2MjQuOEtCL3MiLCJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjRlMTg2Njc4LWZjY2EtNDMyNS1lNGJjLWIyOTE2YmRmNjcwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTg1NSJ9
@@ -602,4 +603,3 @@ vless://281e71f2-3f92-4be7-ae48-038c6d5a6fdb@VPNCUSTOMIZE.Elmahstyle.ir:8080?enc
 vless://c112e1bb-0d76-40bc-9c01-1ddeb2bb9ee5@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @VPNCUSTOMIZE | CA🇨🇦 | 0️⃣5️⃣
 vless://c112e1bb-0d76-40bc-9c01-1ddeb2bb9ee5@zula.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @VPNCUSTOMIZE | CA🇨🇦 | 0️⃣6️⃣
 vless://c112e1bb-0d76-40bc-9c01-1ddeb2bb9ee5@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @VPNCUSTOMIZE | SE🇸🇪 | 0️⃣7️⃣
-vless://Telegram-ipV2Ray-zte@185.146.173.58:2052?encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣1️⃣
