@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9aef1e45-c978-4aaf-8c69-428a5a114f88@162.159.137.232:8880?security=none&type=ws&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la447aac5504dea701aXr1g.caffevip.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:8880
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.67.231.219:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-152.67.231.219:443
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.151:443
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.85:8880?type=ws&host=樱桃.浆果.草莓.我们生活在2024地狱.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.85:8880
@@ -603,3 +601,5 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.61.23.77:443?security=tls&sni=d
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
 vless://b652751c-680c-4afd-b93a-a983733fc21c@104.21.79.143:443?security=tls&sni=se1.v2vless.xyz&type=ws&host=se1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:443
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.4:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.4:8880
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.228:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.228:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.18.37.111:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.37.111:443
