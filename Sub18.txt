@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@162.159.136.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A51780
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%E6%9C%AA%E7%9F%A51781%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#%F0%9F%87%B5%F0%9F%87%B1PL%E6%B3%A2%E5%85%B07%20974.8KB%2Fs
 trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&type=tcp&sni=t6.teslacdn2.live&host=t6.teslacdn2.live#%E6%9C%AA%E7%9F%A51782
 trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com#%E6%9C%AA%E7%9F%A51783%2017.0MB%2Fs
@@ -601,5 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNjkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com#%F0%9F%87%B5%F0%9F%87%B1PL-151.115.83.239-0225
 trojan://9ace71cd-912b-47b4-9fe4-444fdc00070d@ua-full.privateip.net:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-195.123.213.46-0246
 vmess://ewogICAgImFkZCI6ICIxMjguMTk5LjE2MS4yMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImJlZmQwODVhLTkxZjctNDYwOC1iYzQ1LWY0MGMxYWMyZjRiNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92MnJheSIsCiAgICAicG9ydCI6IDk5LAogICAgInBzIjogIvCfh7jwn4esU0ctMTI4LjE5OS4xNjEuMjMwLTAyNzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICJ1YS1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ1YS1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImlkIjogIjU2ODM5MTdkLTM4MjYtNGE3OC04MTU2LWI5MjkzNjQxYzQxYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9SQUNFVlBOIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Hwn4e7TFYtMTk1LjEyMy4yMTMuNDYtMDI0MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://9ace71cd-912b-47b4-9fe4-444fdc00070d@195.123.213.46:443?security=tls&sni=ua-full.privateip.net#%F0%9F%87%B1%F0%9F%87%BBLV-195.123.213.46-0203
