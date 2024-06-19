@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6IjEwNC4xOS4zOC42MiIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUtdm0iLCJob3N0IjoiaXAwMDIuZHRrdTQ3Lnh5eiIsInRscyI6IiJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7002#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+Hq/Cfh7dfRlJf5rOV5Zu9IiwiYWRkIjoiMTA0LjIxLjguMTU3IiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiczFjLnYyLnYwMDFzc3MueHl6IiwidGxzIjoiIn0=
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6InJ1c3NpYS5jb20iLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1NmM2ZWYzMC1hOTMwLTRiY2ItYTE1OS04NWQ5ODM4ZmFkYWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwiaG9zdCI6InNzc3ViLnYyLjAwMS5zc3JzdWIuY29tIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogX1JVX+S/hOe9l+aWr+iBlOmCpiIsImFkZCI6Ijg5LjE2OS41My4zNiIsInBvcnQiOiI1OTk4NSIsInR5cGUiOiJub25lIiwiaWQiOiJkNTcyZDc0ZS00MjdiLTQ1MjUtOWQwZC04ODYwOGQxYTRmMTkiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
@@ -603,3 +593,13 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.130:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.90:443?security=tls&sni=kk555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.90:443
 vless://336831bf-1675-40e4-8f86-9c8c0a290413@185.146.173.92:2095?security=none&type=ws&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&host=V2ray-_-_-_-_-_-_-_-_-%53hhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.92:2095
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.52.215:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-152.70.52.215:443
+vless://6f6e8a5e-8954-491e-a892-1b8457befba5@172.67.204.84:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2086
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.5:443?security=tls&sni=PpAL03.jaC-shEIkh.woRKErs.deV&type=ws&host=PPaL03.Jac-sHeIkh.WORkErs.dEV&path=%2F4f7jnU9WQt8Ly9nk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.5:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.109:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.109:80
+vless://f9dd4f89-c47f-45ca-919c-013b46ff3be0@172.67.204.84:80?security=none&type=ws&host=双倍的.join-private.IR&path=/双倍的#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
+vless://861defda-cca4-4483-9b8c-1efebbd2ce04@185.146.173.59:2052?security=none&type=ws&host=2.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:2052
+vless://8bc175f4-798e-49a7-ad13-ba258f0c6ffe@104.16.4.103:8880?security=none&type=ws&host=liV2rayd.善良的闪电.monster&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.4.103:8880
+vless://d3484b27-0cdf-469b-953e-1066d4e488f8@172.67.157.96:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.96:443
+vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@172.67.129.202:443?security=tls&sni=pay.technator.net&type=ws&host=pay.technator.net&path=/image/20992#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.202:443
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@121.164.146.175:20002?security=tls&sni=kk999.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇰🇷 KR-121.164.146.175:20002
