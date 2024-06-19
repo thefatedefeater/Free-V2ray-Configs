@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.164:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.164:2082
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=bypassfilter.test-fad.workers.dev&type=ws&host=bypassfilter.test-fad.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.221:443
 vless://aa850d80-061d-4988-931e-67e91ccfe6e7@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.122.110.164:25800?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.122.110.164:25800
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
@@ -601,5 +603,3 @@ vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.15.85:8443?security=tls&sni=
 vless://e85b96b9-7f21-46f3-8b7b-104e964e9b75@162.159.152.2:8443?security=tls&sni=join-sho-falcunargo-nl.falcunar.uk.eu.org&type=ws&host=join-sho-falcunargo-nl.falcunar.uk.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@132.145.231.51:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-132.145.231.51:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.116:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.91:443
-vless://ac7938f4-33e7-405f-8572-c65ad8f8bb87@104.21.69.44:8880?security=none&type=ws&host=LiV2raye.lightningz.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8880

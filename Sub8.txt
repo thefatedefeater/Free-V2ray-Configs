@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fe73f065-661c-4ca2-835b-bd7ddbcda26e@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
+vless://d708c854-5646-42db-ba29-959b7861197b@104.25.254.88:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.jomong.space#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.88:8880
 vless://0e9cb8e5-549b-4fe8-ac5f-81bb3e5a2e3b@172.232.250.227:443?security=tls&sni=id-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇩 ID-172.232.250.227:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.144.168:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.144.168:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.186:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80
@@ -601,5 +603,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.66.192.0:443?security=tls&sni=j
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
 vless://366236b3-b3cb-4097-9900-b46098a244b7@172.67.163.103:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.103:2086
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.151:443
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
