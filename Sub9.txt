@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@104.21.83.250:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.83.250:2083
+vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
+vless://b217b5b1-514d-4c56-b04a-789fc7bcf9d6@162.159.137.232:2083?security=tls&sni=freeinternetforeveryone.segaro.tech&type=grpc&serviceName=TLQVyGiO5OwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2083
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.185.161.44:443?security=tls&sni=v000.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.44:443
 vless://e1e7a81f-cdae-4aee-9221-1356d8bea7ee@198.41.202.5:80?security=none&type=ws&host=asan.net.v2rayng6.6.6.6.ir.com.site.列列男事事列上赛男.acountifyable.BUZZ.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.202.5:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:8443
@@ -600,6 +603,3 @@ trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.116.151.254:20650?sni=aus01.ckc
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
 trojan://NISHIKUITAN222@8.219.0.162:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.0.162:8443
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
-trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@48.218.146.89:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.146.89:443
-trojan://ypDt8RkT7J@51.158.217.60:43118?security=tls&sni=ewxig.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.60:43118
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
