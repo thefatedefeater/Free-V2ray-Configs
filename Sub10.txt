@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.242.107.109:8443?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.242.107.109:8443
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@172.232.250.160:443?#🔒 TR-TCP-NA 🇮🇩 ID-172.232.250.160:443
+trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443
+trojan://NISHIKUITAN222@8.219.67.133:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.67.133:8443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.139.243:2087?sni=mfjd.591haoka.com#🔒 TR-TCP-NA 🇭🇰 HK-47.243.139.243:2087
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
 trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&sni=wnbtg.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.195:43118
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.83:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:6379
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.181:8119#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8119
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.238:2376
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.37.47:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.37.47:80
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.25.82:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.25.82:80
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.43:8009#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:8009
