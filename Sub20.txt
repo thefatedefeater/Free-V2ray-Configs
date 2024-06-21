@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://55d443d6-6cc4-4feb-bd7e-d38ade8fd4c5@join-unlimiteddev-vpn.unlimiteddev.site:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | SE🇸🇪 | 0️⃣1️⃣
-vless://eacd83c9-3778-4e0c-99d0-711468213bec@188.114.98.224:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣
 vless://eacd83c9-3778-4e0c-99d0-711468213bec@join-unlimiteddev-vpn.unlimiteddev.site:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | SE🇸🇪 | 0️⃣3️⃣
 vless://a042b35d-4594-4a6a-9f1e-6dcfd95892fa@188.114.98.224:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣
 vless://a042b35d-4594-4a6a-9f1e-6dcfd95892fa@join-unlimiteddev-vpn.unlimiteddev.site:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | SE🇸🇪 | 0️⃣5️⃣

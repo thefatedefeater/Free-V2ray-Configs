@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.80.251:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.80.251:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.72:80
 vless://f8e5817e-8487-4239-be14-c1ea3284719c@62.60.210.159:29098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.159:29098
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.21.12.96:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.96:2053
 vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?security=tls&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.216.234:2053
@@ -603,3 +601,5 @@ trojan://NISHIKUITAN222@8.222.204.128:443?security=tls&sni=t555.ylks.link&type=w
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
 trojan://NISHIKUITAN222@104.19.51.58:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.58:443
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.96.1:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-188.114.96.1:443
+trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.83.20:8443
+trojan://Qu7nSemLSL@188.114.96.3:8880?security=none&type=ws&host=asp.varzesh313.ir&path=%2Fsanaii-safesurfers%3Fed%3D22#🔒 TR-WS-NONE 🏴‍☠️ NA-188.114.96.3:8880

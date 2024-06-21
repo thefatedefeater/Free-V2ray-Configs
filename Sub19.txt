@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAwNSIsImFkZCI6Ijg1LjEzMy4yNTMuMTc4IiwicG9ydCI6IjEzMzIiLCJpZCI6IjY0YjRmYTYwLTQyMDItNGYzYi04ZDMyLTY2MDFkNmYxZmIwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIwMDUifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTrapsq6bNmsVEoxcThERmfHqsel@140.82.2.66:20088#US626
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.76:443#%E6%9C%AA%E7%9F%A52006
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7306#US627%201.6MB%2Fs
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.67.221.240:443#%E6%9C%AA%E7%9F%A52007
@@ -603,3 +601,5 @@ vless://2c86340b-16fe-4096-be8c-acd8870b2c91@104.19.146.157:8080?encryption=none
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?encryption=none&fp=random&host=bia-vip-programs.hsjsak.ir&path=%2F%3Fed%3D2048&security=tls&sni=bia-vip-programs.hsjsak.ir&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?encryption=none&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=%2F&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣
 vless://26a3c8df-d0c7-4408-a02d-e1659c7be1a8@185.146.173.58:2052?encryption=none&host=5.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2FTelegram-configMs%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | SE🇸🇪 | 0️⃣6️⃣
+vless://55d443d6-6cc4-4feb-bd7e-d38ade8fd4c5@join-unlimiteddev-vpn.unlimiteddev.site:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | SE🇸🇪 | 0️⃣1️⃣
+vless://eacd83c9-3778-4e0c-99d0-711468213bec@188.114.98.224:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣
