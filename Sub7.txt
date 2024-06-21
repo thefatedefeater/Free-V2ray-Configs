@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.171.94:2053?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.171.94:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.158.56:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.56:80
 vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.194:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=/vls4dews&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.194:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.159:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.159:443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.106.126:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.126:2053
@@ -601,5 +603,3 @@ vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@104.21.74.214:2087?security=tls&sni
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.37:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.37:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.187:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.187:443
 vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.234.120:2095?security=none&type=ws&host=cl.rayvps.sbs&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:2095
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.59.185:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.59.185:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.22.228:443?security=tls&sni=PPal03.yUriEl-sIddHanTH.WOrKeRs.DEv&type=ws&host=PpAl03.yurIEl-siddhaNtH.worKErs.DeV&path=%2F4Viq5XHkDINND2Wg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.228:443
