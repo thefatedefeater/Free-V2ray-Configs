@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://db9cf031-33ec-4a39-b27e-6da323144963@162.159.137.232:2053?security=tls&sni=shakhle.jd-vpn.shop.&type=ws&host=shakhle.jd-vpn.shop.&path=/@Jd_Vpn&fp=chrome&alpn=h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:2053
-vless://3fd97eba-2517-4011-8bc3-50356388cf91@85.158.145.202:2083?security=tls&sni=Panel.amazonwashop2.top&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-85.158.145.202:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.133.133:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.133:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.236:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.219.89:443?security=tls&sni=hey.BAcHebIapaIn.IR&type=ws&host=Hey.BacHEBiaPaIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.89:443
@@ -603,3 +601,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.146:80?type=ws&host=kr1.
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.5.113:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.113:2083
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.21.89.230:443?security=tls&sni=suratquran18.xyz&type=ws&path=/current_time&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.230:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:2053?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.26.83:2053
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.76.77.103:2083?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.76.77.103:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.29.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.29.251:443
