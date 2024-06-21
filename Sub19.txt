@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://NISHIKUITAN222@8.219.237.250:443?security=tls&type=ws&sni=t005.ylks.link&path=/&host=t005.ylks.link#%E6%9C%AA%E7%9F%A52041
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#US631%201.9MB%2Fs
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.119.17:80#%E6%9C%AA%E7%9F%A52042
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#US632%202.0MB%2Fs
@@ -603,3 +602,4 @@ vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?encryption=none&f
 vless://1ca7d3a9-6b3e-47ed-88a7-ccbd1ff927c6@188.114.96.11:80?encryption=none&host=iNvesTiNg.SpamDeTectOr.worlD&path=%2Fbackup&security=none&type=ws#رایگان | VLESS | @vless_vmess | US🇺🇸 | 0️⃣7️⃣
 vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=none&fp=chrome&host=sni2.tohid3aeed.com&path=%2F&security=tls&sni=sni2.tohid3aeed.com&type=ws#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣
 vless://2819727d-36ae-4629-b35f-f4f066150086@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=fe.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣2️⃣
+vless://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣3️⃣
