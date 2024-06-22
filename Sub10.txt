@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.97:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.97:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.235:8443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.235:8443
+trojan://NISHIKUITAN222@104.26.13.31:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:2053
+trojan://knRrjEPWd5@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#🔒 TR-WS-NA 🇩🇪 DE-164.90.167.137:2095
+trojan://NISHIKUITAN222@8.219.100.168:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.100.168:8443
+trojan://telegram-id-directvpn@63.34.41.2:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.41.2:22222
 trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.82.54:43118
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443
@@ -597,9 +603,3 @@ trojan://4xKIHqPURA@18.136.195.155:16547?security=tls&sni=m.zoom.us&type=ws&path
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
 trojan://1e49d916-a9ee-4c7a-b6ba-0044b00ab411@138.124.184.173:443?#🔒 TR-TCP-NA 🇺🇸 US-138.124.184.173:443
 trojan://fyy75RVvaT@185.112.249.10:443?security=tls&sni=libertyzone.xyz&type=ws&host=libertyzone.xyz&path=/43574/@persvpn&fp=chrome#🔒 TR-WS-TLS 🇸🇰 SK-185.112.249.10:443
-trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
-trojan://NISHIKUITAN222@8.219.67.133:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.67.133:8443
-trojan://NISHIKUITAN222@213.35.98.64:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-213.35.98.64:443
-trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.157:8443
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
-trojan://telegram-id-privatevpns@99.80.219.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.80.219.4:22222
