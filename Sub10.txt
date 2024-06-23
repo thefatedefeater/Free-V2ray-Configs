@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.154.156:43453?security=tls&sni=jp700.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-146.56.154.156:43453
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.20:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.20:80
-vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.b.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:2052
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.35:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.35:80
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.20.19.145:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.145:2053
-vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.44.195:443?security=tls&sni=hey.BacHeBIApain.ir&type=ws&host=HEY.bAcheBIApAiN.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.44.195:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.155:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.155:80
-vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.28.188:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?security=tls&sni=baipiao55.stunning-bassoon.pages.dev&type=ws&host=baipiao55.stunning-bassoon.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.118:443
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@185.146.173.158:8080?security=none&type=ws&host=xn--fjq7ep9nb15b.xn--7or697b.xn--eh1ar1y.xn--7-tq0bns836btt2a.xn--2024-965f794bzbu32k74w57mfzf.site.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.158:8080
 vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.129.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.233:2083
@@ -603,3 +595,11 @@ trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#🔒 TR-TCP-NA �
 trojan://auto@172.67.161.104:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:2053
 trojan://be1a2294-dbed-4cb6-a46d-ed2a98c6bdc9@5.253.41.160:443?#🔒 TR-TCP-NA 🇨🇾 CY-5.253.41.160:443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.22.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.22.46:443
+trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.1.10:443
+trojan://NISHIKUITAN222@47.236.102.102:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.102.102:8443
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.181.213:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.181.213:2087
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.5:443
+trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
+trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.83.20:8443
+trojan://telegram-id-directvpn@52.19.70.220:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.19.70.220:22222
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.4:443
