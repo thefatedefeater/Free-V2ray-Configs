@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a03bece2-d0ad-4032-b44d-0e08e6749e30@104.168.107.230:5738?security=reality&flow=xtls-rprx-vision&sni=addtoany.com&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5738
-vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.20.56:443
-vless://33043f58-e966-43d0-d4ea-b929627b44f8@49.13.73.9:443?security=reality&sni=help.mega.io&type=grpc&serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&fp=chrome&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.73.9:443
-vless://43704528-f3cc-4696-faa2-2779f2460cc1@185.219.84.207:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=Kcn7dLh3iQeiMuJdQwaLoWsQb67El0cfPPKztdKSYHA&sid=d154163159#🔒 VL-TCP-RLT 🇩🇪 DE-185.219.84.207:2096
 vless://e58d0ee3-7d14-4dcf-99e7-ad219a781299@104.168.107.230:7550?security=reality&flow=xtls-rprx-vision&sni=pixabay.com&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7550
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.244.106:443
 vless://73ad1661-b2da-4844-8427-890a9a8995b1@104.248.42.77:443?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=WSoK4aff6cLPU2GrkECLOgqX3_XxLGry3aNn7b12MSw&sid=73da32ed#🔒 VL-TCP-RLT 🇩🇪 DE-104.248.42.77:443
@@ -603,3 +599,7 @@ vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.6:443
 vless://d7602ecf-954c-4ac6-9477-46e080bbae1f@172.67.128.238:443?security=tls&sni=joinmahdiserver.rmgqthp.workers.dev&type=ws&host=joinmahdiserver.rmgqthp.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.238:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.133.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.113:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.72:80
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.220:2096
+vless://1ece5097-9fbf-45bc-d81f-56a3d17ae986@172.67.190.23:2053?security=tls&sni=fruits-bazar-tajrish-online.cyberscaler.com&type=ws&host=fruits-bazar-tajrish-online.cyberscaler.com&path=/fruits-bazar-tajrish-01/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.23:2053
+vless://34930cb2-7eb9-43b3-afdb-b69e8f5566a9@104.16.190.131:2087?security=tls&sni=shoes-sales-online.cyberscaler.com&type=ws&host=shoes-sales-online.cyberscaler.com&path=/online-zafran-store/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:2087

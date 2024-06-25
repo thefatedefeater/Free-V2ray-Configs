@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.6:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.6:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
-trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
-trojan://TeleGram-VPNCTVIP@164.38.155.61:443?sni=trojan-ws.vpnctvip.dns-dynamic.NeT#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.61:443
 trojan://NISHIKUITAN222@47.236.164.215:443?sni=t222.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.236.164.215:443
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.148:443
 trojan://d9a6b140-31f6-11ef-ba0d-1239d0255272@172.67.204.84:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
@@ -603,3 +599,7 @@ trojan://NISHIKUITAN222@8.220.195.140:443?security=tls&sni=t667.ylks.link&type=w
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
 trojan://NISHIKUITAN222@47.237.14.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.14.220:8443
 trojan://NISHIKUITAN222@8.219.78.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.78.1:8443
+trojan://NISHIKUITAN222@47.236.202.91:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.202.91:2053
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.98.75:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.98.75:2053
+trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443
+trojan://f159cb8d-8cb8-45ac-99f3-8f8838f355dd@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇦 CA-91.194.11.168:443
