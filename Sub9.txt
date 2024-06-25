@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.245:443?security=tls&sni=kk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.245:443
-vless://9f327269-04b8-4288-a5c3-4536136674e4@162.159.153.2:2052?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&path=/@VPNHUB69-@VPNHUB69-@VPNHUB69@VPNHUB69@VPNHUB69-@VPNHUB69-@VPNHUB69-@VPNHUB69-#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:2052
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.171:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.201.171:80
 vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?security=tls&sni=promo.worldofwarships.com&type=ws&host=imarketshop.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-95.85.95.85:443
 vless://81bacd5e-b64e-498f-969f-799bbe7d847a@104.17.227.99:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.227.99:8080
@@ -603,3 +601,5 @@ vless://b2ea5f01-9824-46a0-b9c6-2ec87b50cbfa@162.159.44.131:80?type=ws&host=2.V2
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.94.25:80?type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.25:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.198:8443
 vless://770e8a1b-980e-474d-b583-2e4e98acb854@104.22.36.243:2053?security=tls&sni=notls.11111111.eu.org&type=ws&host=notls.11111111.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:2053
+vless://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.51:443
+vless://439e2f9e-079e-4369-a712-22b942afeadd@172.67.153.28:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.28:443
