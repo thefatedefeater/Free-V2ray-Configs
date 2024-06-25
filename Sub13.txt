@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://NISHIKUITAN222@8.222.191.138:8443?security=tls&sni=t033.ylks.link&type=ws&host=t033.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.191.138:8443
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.5:443
-trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
-trojan://NISHIKUITAN222@47.245.84.124:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.245.84.124:8443
-trojan://moist@146.56.44.226:55555?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-TLS 🇰🇷 KR-146.56.44.226:55555
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=ws&host=mailbox.CPIFOrpersiA.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2087
 trojan://telegram-id-directvpn@52.212.254.65:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.212.254.65:22222
 trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:2083
 trojan://telegram-id-directvpn@51.21.38.155:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.38.155:22222
@@ -603,3 +596,10 @@ ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.21.73.115:443#🔒
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206U1lIZ1RpRG9oQXJDNTNKbXd2bUIzUT09@78.141.226.231:6623#🔒 SS-TCP-NA 🇬🇧 GB-78.141.226.231:6623
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003
 ss://NjdhYzI5NjYtYzYzMy00ZmJlLTkyZGQtOGM2NjY4ODFjNmRlOg==@104.16.58.162:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.58.162:8080
+ss://OTI4ODRjMDItOGIwNy00NTE5LWIyMTItZjkxN2ExNDM5NWMzOg==@104.21.48.247:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.48.247:2096
+ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.64.160.7:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.160.7:2053
+ss://NTFkM2QyNDktOTA5NS00Y2JkLThmZDItM2U2YzEwMzljYWI0Og==@172.67.180.238:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.180.238:8880
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9030
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.105.152:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.105.152:80
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8009
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5500
