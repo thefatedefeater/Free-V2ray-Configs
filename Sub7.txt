@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.125.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.125.69:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.184:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.184:443
-vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.58.100:80?security=none&type=ws&host=zula.ir.www.speedtest.net.列列男事的事列上赛男84.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.100:80
 vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@172.67.200.97:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.97:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.254:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.254:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:2053?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.26.83:2053
@@ -603,3 +600,6 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.253:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.184:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.170:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.170:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.142.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.142.113:443
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.205.139:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.205.139:2052
+vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@172.67.193.36:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:2087

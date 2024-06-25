@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@160.79.104.51:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.51:443
-vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@104.31.16.65:2086?security=none&type=ws&host=dbdid89lh.事出场次以运7.tech&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2086
-vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.211.179:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.179:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.191:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.191:80
 vless://29cf96e6-8008-4233-a883-4b5daeb72309@172.67.153.213:443?security=tls&sni=helloworld.seyed-ali-khamenei-binamous.site&type=ws&host=helloworld.seyed-ali-khamenei-binamous.site&path=/@azadi_az_inja_migzare&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.213:443
 vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.172:2096
@@ -603,3 +600,6 @@ vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@162.159.138.6:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&path=%2Fbmkpskkiym1rrlxm%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.84.115:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.123:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.123:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.135.76:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.76:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.125.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.125.69:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.184:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.184:443
+vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.58.100:80?security=none&type=ws&host=zula.ir.www.speedtest.net.列列男事的事列上赛男84.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.100:80
