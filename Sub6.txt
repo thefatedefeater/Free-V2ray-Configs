@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.167:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.167:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
 vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@190.93.246.216:2083?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.216:2083
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.42.254:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-35.156.42.254:22222
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.11.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.114:80
@@ -603,3 +601,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.75:80?type=ws&host=kr1.1
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.67:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.67:443
 vless://ffd0a0c3-914e-47c0-8b6a-ff2422167d7e@23.227.39.179:2083?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2083
 vless://c0ac9d51-2540-487f-a4a6-26737c979558@162.159.135.232:2052?security=none&type=httpupgrade&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.135.232:2052
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.146.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.146.234:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.144:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.167.144:80

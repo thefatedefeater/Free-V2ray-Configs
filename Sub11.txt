@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-directvpn@18.156.112.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.156.112.4:22222
-trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
 trojan://a9068131-63ac-42c8-b623-b8c904418679@172.232.250.227:443?security=tls&sni=id-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇩 ID-172.232.250.227:443
 trojan://Jncm1NRGbZ@172.67.175.243:8443?security=tls&sni=frankfoortvip.followprovider.ir&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.175.243:8443
 trojan://Ayujaolw07@18.142.43.207:58235?security=none&type=ws&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.142.43.207:58235
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3bzZNS3I5VHo5dWxEdDloSUhVZXl2@45.155.121.141
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.75:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.204.75:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:808
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.162.200.181:7307#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:7307
+ss://MGViYjE2NzctNDkwMi00NzZmLWJjMDMtM2U4YzdjYTZmZDIxOg==@172.67.153.74:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.153.74:2087
+ss://ZDk3OGMyNmQtMWM0My00NDBiLWI2OTYtYmU5NTAwMzJhYjZmOg==@104.21.25.39:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.25.39:2082

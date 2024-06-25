@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.20:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.20:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.82:443?security=tls&sni=kk999.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.82:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?security=tls&sni=73Ff2B24.bpB-PANEl-B1Q.Pages.dEV&type=ws&path=%2Fj4Tcoe7UqWaQflkA%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.0:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.10.182:2096?security=tls&sni=kk999.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.10.182:2096
 vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:443?security=tls&sni=napdg1000072.reneelegitimate.workers.dev&type=ws&host=napdg1000072.reneelegitimate.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.217:443
@@ -603,3 +601,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.30:80?type=ws&host=kr1.1
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.28:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.234:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.188:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.188:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.149.28:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.149.28:80
+vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?security=tls&sni=pardazesh25.pages.dev&type=ws&host=pardazesh25.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.189:443
