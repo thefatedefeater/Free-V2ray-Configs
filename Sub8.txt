@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.66.156:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.66.156:443
 vless://d2b4bc1e-36f3-4e0e-8804-da6f10e50846@172.64.153.235:2083?security=tls&sni=86FD60F5.897qaIFQ9g56InfVD59rrWMcMBtkap.pAgES.DeV&type=ws&host=86Fd60F5.897QaIfQ9g56iNfVd59rrwmcMbTkAp.PaGEs.dEv&path=%2F5FcuoNjH4hnONBqj5FcuoNjH4hnONBqj%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.153.235:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.62:443
 vless://9a279347-749d-4478-8ff6-abd151b23e34@185.146.173.58:2086?security=none&type=ws&host=No.1.V2rayV2ray-_-_-V2ray.irantech.Org.&path=/AAWED#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:2086
@@ -603,3 +602,4 @@ vless://f20bcdc7-1a98-4573-aef5-653a40524c87@104.21.72.167:443?security=tls&sni=
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.17.160:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.24.57.187:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.57.187:80
+vless://9ca37727-0381-47e2-bcbb-2fe12875eaea@172.67.160.56:443?security=tls&sni=esetsECuRityLicEnse.XAagczZ.WorkERS.DEV&type=ws&host=esEtsECurItyliCEnsE.XaAGczz.worKers.deV&path=%2FGH1st3uOy36PWqdP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.56:443
