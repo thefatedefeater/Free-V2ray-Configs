@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.28:443#%E6%9C%AA%E7%9F%A51239
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&type=tcp&sni=z9.gozargah.one#US393
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@190.93.244.0:80#%E6%9C%AA%E7%9F%A51240
 trojan://ypDt8RkT7J@51.159.102.179:43118?security=tls&type=tcp&sni=tpzmg.phooeyunfold.com#%E6%9C%AA%E7%9F%A51241%20817.7KB%2Fs
@@ -602,4 +603,3 @@ ss://MWY0NjNjMjItZDhjMC00MTYzLTg4ZTEtYTUwMmMzYmU1OTE3Og==@172.66.213.38:443#%E6%
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.137.93:8119#US535%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8118#US536%201.7MB%2Fs
 trojan://fMucnQTndf@129.213.63.5:443?#US537
-trojan://acabcab-caba-acba-dbca-bcccbcbabaaa@127.0.0.1:8080?security=tls&type=tcp#US538
