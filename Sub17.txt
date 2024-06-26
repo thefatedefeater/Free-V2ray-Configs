@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8119
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@80.92.204.106:9084#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9084
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:16899#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:16899
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.121.44:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.121.44:80
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.83:9102#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:9102
 ss://OTFkOWI4ZDgtMmFhYi00ZTFhLTk1NzMtMGQ1OWU5Y2Q3ZjhlOg==@188.114.97.1:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-188.114.97.1:8880
@@ -599,7 +603,3 @@ ss://ZGM4ZWNjZGItZWNmYS00MzVmLTlhYzEtNWRjNDg4MmU3YjUxOg==@162.19.228.119:80#%E6%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10017#HK18
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.43:5499#US103%201.9MB%2Fs
 ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.168.93:8080#%E6%9C%AA%E7%9F%A5288
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12005?sni=cn1.one.edu.kg#HK19
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A5289
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjVlSllxc1NpWnFKZkFrR2lWanVB@185.190.251.57:5555#US104
-trojan://telegram-id-privatevpns@3.11.52.53:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5290%2015.0MB%2Fs
