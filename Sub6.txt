@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f7b69b6c-c6d1-4abe-89ef-6396103afa01@104.17.243.198:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.243.198:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.103:443?security=tls&sni=jp626.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.103:443
 vless://81f8b08d-f412-49a4-8d34-9a95b84d992d@80.71.157.107:443?security=tls&sni=m.facebook.com&type=ws&host=de3.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇩🇪 DE-80.71.157.107:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.153:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.153:80
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2087
@@ -603,3 +601,5 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&typ
 vless://bebb4669-0a60-4b6f-be6a-b0272695a303@172.67.212.184:2083?security=tls&sni=mmad.mamadjohnny.woRkErs.DEV&type=ws&host=mmad.mamadjohnny.woRkErs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.184:2083
 vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2053?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.240:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.112:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.112:80
+vless://28b2c67f-e54a-4081-b76b-44eec382d887@162.159.195.233:443?security=tls&sni=virax.gamerstmjj.workers.dev&type=ws&host=virax.gamerstmjj.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.233:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@212.41.15.119:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-212.41.15.119:443
