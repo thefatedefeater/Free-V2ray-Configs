@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c341543c-2bbc-4e5a-b945-99350f28f9e0@Zula.ir:8443?type=grpc&serviceName=OfflineNet-vnpr3-u3ervpn&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=offlinenet-some1274.aminho3ien.ir#👉🆔 @v2ray_configs_pool`
-vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiMzZkNWRhMDYtYjkwNC00NTk1LTg4NGQtM2I3NTc2MWU5ZjZkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==`
 vless://8d1cc38c-3123-4a31-b921-8fbea78670b5@188.114.97.141:80?path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2048&security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&type=ws#👉🆔 @v2ray_configs_pool`
 vless://a8cecb9b-b00c-482d-bb92-dafdb94beb5d@185.146.173.237:2095?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&type=ws#👉🆔 @v2ray_configs_pool`
 vless://555e0d5f-77ea-4c7d-8b3e-89836ec5f428@85.133.236.173:2093?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
@@ -603,3 +601,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.78:80?type=ws&host=kr1.17
 vless://4f1626bf-dc6a-414c-9b30-0e5b06ec1bdd@162.159.137.232:80?security=none&type=ws&host=V2RAyMAJANi.VPN.TelACtive.Net.&path=%2FTelegram---V2RAY-MAJANI%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:80
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.57:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.99:443
+vless://e695cbee-0c5f-48bc-8d5f-93012fd4a1ad@92.38.145.145:80?security=none&type=ws&host=music-farsi.com&path=%2FTechnoi%3Fed%3D4096#🔒 VL-WS-NONE 🇺🇸 US-92.38.145.145:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.29:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.29:443
