@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.174:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.68.38:443?security=tls&sni=PpaL03.LeXandER-sHUbHam.wORKerS.DEV&type=ws&host=PpaL03.lexandeR-sHUBhAM.WORkERS.deV&path=%2F66M4b979cyne6C23%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.38:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.68:443
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
@@ -602,4 +603,3 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.192.157:443?security=tls&sni=jo
 trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
 trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.203.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:443
-trojan://kh06dw8cR3@66.235.200.64:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇺🇸 US-66.235.200.64:8443
