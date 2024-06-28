@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.196.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.49:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.49:80
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.5.113:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.113:2083
 vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.67.73.233:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.233:443
 vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@192.9.246.112:8443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Ffylink.pages.dev%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443
@@ -601,5 +603,3 @@ vless://211267ce-6387-413e-b221-30c6283ab397@104.21.19.195:2087?security=tls&sni
 vless://eb44ea0e-d927-4ea8-8312-17888d03d3a6@104.16.231.132:80?security=none&sni=ratio-lies-kenya-egg.trycloudflare.com&type=ws&host=ratio-lies-kenya-egg.trycloudflare.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.231.132:80
 vless://383c350b-5096-4f32-bd50-9b849da5edbc@49.13.83.182:443?security=tls&sni=sdf.mgodping12.xyz&type=grpc&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-49.13.83.182:443
 vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-159.100.18.235:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.1.191:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.1.191:443
-vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.122.104:8443?security=tls&sni=nikuw.sspeednetokala.US.kG&type=ws&host=nikuw.sspeednetokala.US.kG&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.122.104:8443
