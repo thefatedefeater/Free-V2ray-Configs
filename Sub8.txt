@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.250.23:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.250.23:80
+vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.247.238:443?security=tls&sni=Hey.BacHEBiAPAIN.Ir&type=ws&host=HEY.BAchebIaPaIN.ir&path=%2F1m6nvq6kWx8n4Z1Z%3Fed%3D2560.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.238:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.6:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.6:80
+vless://236a784b-2506-4236-b336-00f2f792986a@172.67.171.46:80?security=none&sni=nl2.vless.site&type=ws&host=Nl2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.46:80
 vless://bd65f7f3-9ca1-4741-8743-5c1657fa548e@172.66.47.183:443?security=tls&sni=pardazeshvpn-tg100.pages.dev&type=ws&host=pardazeshvpn-tg100.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.183:443
 vless://0b56814b-3c31-4646-ef9c-da6e605b6be2@192.200.160.76:2096?security=tls&sni=panel.h3i0.site&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.76:2096
 vless://dd72f90e-d0d1-4e9e-af3d-ec0442c36d8a@5.42.103.2:39264?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-5.42.103.2:39264
@@ -599,7 +603,3 @@ vless://b35352a6-a251-4bf5-bfc4-14f255f02888@104.21.78.226:443?security=tls&sni=
 vless://2b2e58ea-ea66-4ad0-9dfe-4b9ee65f3202@193.111.235.214:443?security=none&type=tcp&host=uptvs.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.214:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni=heY.bACHeBiapAiN.Ir&type=ws&host=hey.bacheBiapAIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.216.241:443
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.162:443?security=tls&sni=hkk1.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-13.75.34.162:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.121:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.121:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.119:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.119:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.106.101:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.106.101:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.122.55:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.122.55:80
