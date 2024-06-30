@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?security=tls&sni=watashi.free.hkpublic.moh539.link&type=ws&host=watashi.free.hkpublic.moh539.link#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.89:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.3:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.3:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.19:80
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.16.149:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.178.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.178.134:80
@@ -603,3 +601,5 @@ vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443?security=tls&sni=hk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.179:443
 vless://010da807-b050-42ce-8fac-4afb2f17a21f@188.114.98.252:443?security=tls&sni=KIng-kiNg-kinG-kiNG.PaGEs.deV&type=ws&host=kING-KIng-kiNg-KInG.pAges.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.252:443
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.17.20.32:80?security=none&type=ws&host=LG3.topshop20.com&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.20.32:80
+vless://16782c80-8b2c-4eb1-81da-dd0435bfa586@104.17.148.22:8880?security=none&type=ws&host=cloudvezzzzzzev2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.doornadoor.com&path=/VezzeWmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:8880
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.244.122.152:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.152:443

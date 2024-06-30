@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=bbnnm.azurewebsites.net&type=ws&host=bbnnm.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇰🇷 KR-52.231.38.95:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.186:80
 vless://5a4cc95f-8fff-4178-a7f7-3c1d5498154b@172.67.178.2:2087?security=tls&sni=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&type=ws&host=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.2:2087
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.25.255.254:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.254:443
 vless://887ab474-b0d6-4628-a2a2-9d3095059881@104.20.66.92:80?security=none&type=ws&host=vv.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.66.92:80
@@ -603,3 +601,5 @@ vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni
 vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@162.159.136.234:443?security=tls&sni=uk-cdn.pop-up-pool.xyz&type=ws&host=uk-cdn.pop-up-pool.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
 vless://587290fa-521e-4a7d-a0fb-ff497514e57f@2.189.59.6:443?security=tls&sni=v2raxx-all.amalfatm.ir.&type=grpc&serviceName=%40V2RAXX-TEL%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇮🇷 IR-2.189.59.6:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.22.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.252:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
+vless://23beafe4-135e-4387-b0f2-c228476694fb@172.67.186.132:2096?security=tls&sni=Tu.osirisgames.ir&type=ws&host=Tu.osirisgames.ir&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.132:2096
