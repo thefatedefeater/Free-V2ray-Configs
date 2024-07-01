@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.148-2273
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.86.150:9102#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.150-2375
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-0692
 vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm%E2%80%8Ctelegram-proxy_mtm%E2%80%8C%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%2011
@@ -603,3 +602,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.78.171:443?security=tls&sni=
 vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-159.100.18.235:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.209.242.145:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.209.242.145:22222
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.141:443
+vless://c1b69e03-ce23-4a47-b61e-29e5429e10c9@185.146.173.95:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.95:2095
