@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
 trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
 trojan://NISHIKUITAN222@47.237.10.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.10.1:8443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
@@ -602,4 +603,3 @@ ss://ODBkNzA5NGMtNjE5Yi00MjA4LWI4NDQtMDU4NjFhMWM3NDM5Og==@104.21.26.245:443#🔒
 ss://MGNhM2ViMDAtMjcxYi00OWUwLWIzYzgtZmUyZThiYTYzNGI4Og==@104.21.30.22:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.30.22:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.139:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.139:8080
 ss://NTRlZjRlY2YtZmYzNy00MzZhLWJlMTMtOTVjOGE4YTExMTRkOg==@188.121.118.55:443#🔒 SS-TCP-NA 🇮🇷 IR-188.121.118.55:443
-ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.67.47.220:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.47.220:2053
