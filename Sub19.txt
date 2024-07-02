@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.168.93:2095#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.168.93:2095
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🔒 SS-TCP-NA 🇹🇷 TR-185.123.101.241:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqanBIb0hHWTBqTlE3U2EyMGY5V2FR@92.118.112.254:1080#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.254:1080
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:8118
@@ -602,4 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzggMS42TUIvcyIsImFkZCI6IjM4LjU0LjExMi4xODIi
 trojan://Ck0nkbbsur@172.64.150.8:2096?security=tls&type=ws&sni=tls.redbullplus.xyz&path=/wsss&host=tls.redbullplus.xyz#%E6%9C%AA%E7%9F%A539
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.228.152:2096?security=tls&type=ws&sni=mfjd.591haoka.com&host=mfjd.591haoka.com#HK5
 trojan://88496c26-3356-47fc-b786-fb8e41a3ff55@129.153.145.216:443?security=tls&type=tcp&sni=55arm.1365365.xyz#US30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNb3hNcGdNM01MaEJ3MERCRHZQQW5C@77.221.137.197:25067#%E6%9C%AA%E7%9F%A540
