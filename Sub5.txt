@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.245.156:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.22.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
 vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.246.225:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.225:8880
 vless://22b2db74-7497-4bc8-947c-18095befa4d4@104.17.147.22:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.xn--48jyb6ec1ad.artikys.online.&path=artikV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
@@ -602,4 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.230:80?type=ws&host=kr1.
 vless://9a279347-749d-4478-8ff6-abd151b23e34@185.146.173.58:2086?security=none&type=ws&host=No.1.V2rayV2ray-_-_-V2ray.irantech.Org.&path=/AAWED#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:2086
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.105.224:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.105.224:80
 vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@104.21.50.175:2083?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.175:2083
-vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.128:443
