@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b14403db-b3e6-4b8f-b360-02b51f741abf@86.38.214.23:8443?security=tls&sni=Mowji.bestservers.ir&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.23:8443
 vless://fcf414f7-38ac-49dc-8227-d75d94c35476@146.75.61.57:443?security=tls&sni=fastly.com&type=ws&host=v2rayrolly.com&path=/Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly#🔒 VL-WS-TLS 🇮🇹 IT-146.75.61.57:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.0.54.194:443?security=tls&sni=v999.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.194:443
 vless://2bbe0cec-7c52-4650-94e6-deec3ddaf4ea@162.159.130.234:2087?security=tls&sni=ShhProxyV2ray.digitalciity.Tech&type=ws&host=ShhProxyV2ray.digitalciity.Tech&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:2087
@@ -603,3 +602,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.70.98:80?security=none&type=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.121:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.121:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.83.133:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.83.133:80
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.205.181:2053?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.205.181:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&type=ws&host=94391E80.uVpn-Org.paGes.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.252:443

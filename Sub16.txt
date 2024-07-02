@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.146:443
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.153.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
 trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:54295?security=tls&sni=vn01.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:54295
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.2:443
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.207:5000#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.87:9102#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:9102
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.75.137.139:5498#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.139:5498
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.43:9101#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:9101
+ss://YWVzLTI1Ni1jZmI6em9vZ3Zwbg==@172.104.49.76:443#🔒 SS-TCP-NA 🇸🇬 SG-172.104.49.76:443
