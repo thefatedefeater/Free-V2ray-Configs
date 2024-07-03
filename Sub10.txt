@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ae8e1a57-75fc-4d8d-b186-bfa92e547311@104.18.16.130:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=Ъ©Ш§ЩҶШ§Щ„+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.16.130:2083
-vless://042c7251-327e-4900-a937-d6d1be58c92d@162.159.153.247:443?security=tls&sni=SHaDiRadcaFeBaZaRIrV2rayGmoneCoMShop.FzSAV.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.153.247:443
 vless://6f8f844a-28f7-4244-b291-8fedede90176@104.21.26.124:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.26.124:8080
 vless://400ad5a0-3585-4b32-bb69-ac742fbae328@172.67.219.230:2087?security=tls&sni=sina-mci-mhd-hh.parsafoom.ir&type=grpc&serviceName=%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.230:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.9:443
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.209:443?security=tls&sni
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
 vless://f019fcd3-d236-4669-834e-b6040cee6c57@104.21.74.214:8443?security=tls&sni=haha.servernet.cfd&type=ws&host=haha.servernet.cfd&path=%2F&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.214:8443
 vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.134.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:8443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.55.112:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.55.112:80
+vless://c6a979db-09de-4b47-88c2-fb89c0335049@104.21.74.214:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:443
