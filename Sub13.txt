@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.47.183:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&host=pardazeshvpn-tg2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.183:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.150.9:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.2:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.2:80
-vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.16.233.155:2053?security=tls&sni=newus.sspeednetokala.Us.kG&type=ws&host=newus.sspeednetokala.Us.kG&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.233.155:2053
-vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@104.21.79.51:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.51:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.113.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.113.204:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.108.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.108.126:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.19:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.19:443
 vless://6f700640-66c9-48c3-bf34-f060a3a2dd96@80.75.215.18:52625?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-80.75.215.18:52625
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.81.88:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.201.81:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.81:443
@@ -603,3 +595,11 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.243.71:80?security=none&type
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?security=tls&sni=kka.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.247:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.40.235:443?security=tls&sni=PPAl03.fArREn-RAffi.woRkERs.DEV&type=ws&host=PPaL03.faRren-raffi.WoRkers.DeV&path=%2FNABrUxKc15uyYE24%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.235:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.52:443?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.52:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.2.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.2.235:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.34.20:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.34.20:80
+vless://5d99e45f-9139-4235-bd72-207fa5640379@154.219.5.118:2053?security=tls&sni=dl13.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.118:2053
+vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.29:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.29:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.19.249.255:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.249.255:443
+vless://0770c31f-bbf2-4c71-be1b-3ee6625ebba1@185.146.173.185:443?security=tls&sni=api4.htve.ir&type=ws&host=api4.htve.ir&path=%2F%3Fed%3D4096&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.185:443
