@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.144.168:443
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
+trojan://NISHIKUITAN222@8.222.156.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.156.242:8443
+trojan://NISHIKUITAN222@8.222.164.209:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.164.209:8443
+trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=/#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.22:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.22:2096
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
 trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.135:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.135:443
@@ -597,9 +603,3 @@ trojan://NISHIKUITAN222@47.236.102.102:8443?security=tls&sni=t009.ylks.link&type
 trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.1.89:443
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.201:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.201:443
 trojan://telegram-id-privatevpns@18.132.242.218:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.132.242.218:22222
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.147:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.147:443
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
-trojan://telegram-id-privatevpns@52.28.238.91:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.28.238.91:22222
-trojan://qjIPNzdyWS@172.67.204.84:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080
-trojan://NISHIKUITAN222@8.219.60.54:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.60.54:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.95:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.95:8443
