@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2375
-ss://ZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxOg==@104.24.177.7:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.177.7:443
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.62:8090#🔒 SS-TCP-NA 🇺🇸 US-167.88.62.62:8090
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🔒 SS-TCP-NA 🇫🇮 FI-37.143.129.230:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50235#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50235
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.43:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:5499
@@ -584,8 +581,6 @@ vmess://eyJhZGQiOiIxNzIuNjcuNzQuNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?alpn=http%2F1.1&authority=&encryption=none%3D%2F%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY&fp=firefox&mode=gun&security=tls&serviceName=&sni=fifth.pinocchio1.ir.&type=grpc#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣1️⃣
 vless://7eed1819-7f95-4fc7-b4c5-1cb5c4f737d6@tg.ELiV2ray.io.:80?encryption=none%3D%2F%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY&host=10.v.v.v.V-_-_-V2ray-_-_-V.v.v.vp.zula.ir.xn--9iqtb0z3kmg58ejur.ww.speedtest.net.pinocchio1.ir.&path=%2F&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣2️⃣
 vless://b1e1dfa4-2e9a-4f19-986e-3ec18d81481c@TG.ELiV2RAY.iO:8080?encryption=none%3Dpath%3D%2FChannel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY--Channel-%40ELiV2RAY&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣3️⃣
-vless://--JOIN--ELiV2RAY-@TG.ELiV2ray.io:80?host=f1.ELeNa-clOuDflARe.cOm.&path=%2F%40ELiV2RAY-ELiV2RAY-%40ELiV2RAY%2CF1.V2ray.lV%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣4️⃣
-vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?host=ELi.V2ray.motorcycles&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣5️⃣
 vless://c90f9de9-ad48-492c-8c16-6892fe1cd080@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&type=ws#رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣1️⃣
 vless://547045a7-3ca1-41b7-af58-f74f8d43426a@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F&security=none&type=ws#رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣2️⃣
 vless://63194432-5fab-46bb-8df7-d23661e57770@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F&security=none&type=ws#رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣3️⃣
@@ -603,3 +598,8 @@ vless://Telegram-ipV2Ray-zyu@Zz.zemesTanil.IR:2083?alpn=h2%2Chttp%2F1.1&authorit
 vless://Telegram-ipV2Ray-sqp@185.146.173.58:2052?encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣3️⃣
 vless://Telegram-ipV2Ray-klp@185.146.173.58:80?encryption=none&host=Ch.2.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣4️⃣
 vless://Telegram-ipV2Ray-xew@185.146.173.58:80?encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣5️⃣
+vless://Telegram-ipV2Ray-iop@185.146.173.58:80?encryption=none&host=Ch.2.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣6️⃣
+vless://Telegram-ipV2Ray-zew@185.146.173.58:80?encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | SE🇸🇪 | 0️⃣7️⃣
+vless://db906bfe-072b-47f5-9edd-3f5439a3fc9a@ch1.melobigg.site:8443?allowInsecure=false&alpn=http%2F1.1%2Ch2&fp=chrome&path=%2Fmelov2ray&security=tls&sni=ch1.melobigg.site&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣1️⃣
+vless://f93ee5ea-2b69-49cb-aa7f-8e59c55f9e2f@zula.ir:80?host=ch1.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣2️⃣
+vless://f93ee5ea-2b69-49cb-aa7f-8e59c55f9e2f@www.speedtest.net:80?host=ch1.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣3️⃣
