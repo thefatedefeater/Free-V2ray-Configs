@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.5:443
-vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?security=tls&sni=figr1.blackflag.blog&type=grpc&serviceName=jkrv2ry&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.51:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.12:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.12:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.98:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.41.103:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.41.103:443
@@ -603,3 +601,5 @@ trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.76.49.246:2053?security=tls&sni
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
 trojan://telegram-id-directvpn@51.44.29.44:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.29.44:22222
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
+trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.248.47:8443
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
