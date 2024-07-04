@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a88d827a-0fbd-4583-937d-0b34730b8537@104.16.0.10:2096?security=tls&sni=dl.etnet.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.0.10:2096
-vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@45.131.7.10:80?security=none&type=ws&host=sany.sany27654.WORkeRs.dev&path=vless-ws%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.10:80
 vless://7d9eb9c1-52f0-4c0f-ba58-27be0aec0a27@172.67.162.149:2053?security=tls&sni=rafav2bot.rafalion.ir&type=ws&path=@RaFaV2ray&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.149:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.148.2:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.148.2:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.20:443
@@ -603,3 +601,5 @@ trojan://sharevpn@140.82.2.66:443?security=tls&sni=mynode.work.gd&type=tcp#🔒 
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.168:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.168:2087
 trojan://moist@47.243.67.28:2083?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-47.243.67.28:2083
 trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@20.2.3.7:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.3.7:443
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
+trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@185.146.173.29:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir&type=grpc&serviceName=2pxF1YL0obWgOVYsTfLJX3ihXJUp&allowInsecure=1#🔒 TR-GRPC-NA 🇸🇪 SE-185.146.173.29:443
