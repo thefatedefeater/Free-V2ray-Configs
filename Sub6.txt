@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.106:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.68.41:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.41:443
 vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.241:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2083
 vless://ae052ac1-ceea-476a-8846-24a70fb69c8b@172.67.129.111:2083?security=tls&sni=marketepicnode6.nabarbest.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.111:2083
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.112.243.64:443?security=tls&sni=gerrrrw.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-40.112.243.64:443
@@ -601,5 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.130:80?type=ws&host=kr1.
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.129.32:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.32:80
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.138.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:80
 vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.194.133:443?security=tls&sni=www.speedrun.com&type=ws&host=vpngaming.ir&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.232.194.133:443
-vless://18b80cae-f272-4dcb-881f-cd635afa511d@185.73.0.140:27580?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.73.0.140:27580
-vless://fae371fe-b27e-4354-9913-400596208387@154.219.5.112:2053?security=tls&sni=dl12.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.112:2053
