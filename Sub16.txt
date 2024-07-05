@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.71:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.71:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.32:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.32:443
 vless://d055975a-90f6-4d3f-b16e-e482edb94783@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.4.18:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.4.18:80
@@ -603,3 +602,4 @@ trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.n
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
 trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.203.7:2087
 trojan://414035fc-dd34-4ef8-abdd-2d3ffcb4e387@172.105.18.131:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.18.131:443
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443?sni=golinkwuxian.top#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.133.220:443

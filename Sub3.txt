@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
 vless://702c098f-a29a-415d-af86-cf72a437c200@38.180.1.198:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇳🇴 NO-38.180.1.198:443
 vless://a094f50c-863c-4d3b-aa09-298c25e782b7@104.168.107.230:8339?security=reality&flow=xtls-rprx-vision&sni=sedo.com&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8339
 vless://f1a42bb6-e6cd-4667-90a0-7aa6be9ec12c@70.34.198.202:6969?security=reality&sni=refersion.com&type=http&path=/&fp=chrome&pbk=BnkDKlf0BHiMeZ5DN0QOkxUQIxJvhY-KtQQXP6QjTxg&sid=10183b44#🔒 VL-HTTP-RLT 🇸🇪 SE-70.34.198.202:6969
@@ -603,3 +602,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.244:80?type=ws&host=kr1.
 vless://dcf207e3-8f17-4cf7-b810-b6f303c7712c@185.146.173.94:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.72:80
 vless://c416be20-32b3-467f-83c2-735e04d639f7@172.67.137.169:443?security=tls&sni=eagle.Hafezdivan.Online.&type=ws&path=/&fp=chrome&alpn=h3&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.169:443
+vless://a2116969-446f-4871-b345-da044dd17a61@173.245.58.28:2096?security=tls&sni=69.neilson.ir&type=grpc&serviceName=Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.28:2096
