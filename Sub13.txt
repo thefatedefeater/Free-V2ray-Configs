@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-185.162.231.227:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.135:80
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.211.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.211.110:2087
 vless://cff4b984-bbf2-4a3c-9e2f-167910e458b4@162.159.152.19:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.19:443
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.76.57:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.76.57:443
@@ -601,5 +603,3 @@ vless://b14403db-b3e6-4b8f-b360-02b51f741abf@86.38.214.29:8443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.151:443?security=tls&sni=kke.ylks.link&type=ws&path=/#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.151:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.163:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.163:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.151.160:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.151.160:80
-vless://40bd0854-8a76-428a-993d-fea77db2a59d@104.26.15.16:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:8443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.201.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.201.248:80
