@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@172.67.196.164:443?sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.196.164:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:8443
-trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443
-trojan://eqUjIxW5S5@188.114.97.6:443?sni=xstj.damane2111.ir#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.6:443
 trojan://333b4368-8162-3997-bc38-db1d667cc921@142.171.219.14:21156?sni=lavip101.qlgq.fun#🔒 TR-TCP-NA 🇺🇸 US-142.171.219.14:21156
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.181:8443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.181:8443
 trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.148:443
@@ -603,3 +598,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2b1dMN3VWSndaSFNxdWM2T3FxVFdZ@92.243.27.51:9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.16.252.167:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.252.167:80
 ss://Zjc3NTk3OGItNmUyMi00MWE4LWFlNWUtNWY5Nzc5ZTY3NDVmOg==@103.184.44.62:2053#🔒 SS-TCP-NA 🇨🇳 CN-103.184.44.62:2053
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@216.246.25.16:16899#🔒 SS-TCP-NA 🇺🇸 US-216.246.25.16:16899
+ss://YWRiYjE3YWUtYjhjYi00YWVlLWE4OTAtNjMyOTk2NWFiY2FjOg==@172.67.175.132:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.175.132:8443
+ss://NWZhYTk0YzYtZWEyNy00ZWEwLTllMzktMmRlM2Q2ZWE5YmUxOg==@104.21.33.85:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.33.85:8880
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.126.190:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.126.190:80
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:6697
