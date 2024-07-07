@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.206:80
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.0.33:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.0.33:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.215:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.215:80
 vless://22460f3c-1e4f-4999-9032-22d1220a6345@185.146.173.22:2086?security=none&type=ws&host=ff3.xn--gmq282ekfhyys3gs.com.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.22:2086
@@ -603,3 +602,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.174.199:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.199:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.57.245.232:443?security=tls&sni=hkf.ylks.link&type=ws&path=/#🔒 VL-WS-TLS 🇭🇰 HK-47.57.245.232:443
 vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.20.19.145:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.145:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.61:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.61:80
