@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN222@47.237.8.82:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.8.82:8443
+trojan://telegram-id-directvpn@52.28.92.166:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.28.92.166:22222
 trojan://telegram-id-directvpn@3.142.89.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.142.89.24:22222
 trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
 trojan://moist@154.197.121.253:443?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇨 SC-154.197.121.253:443
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN222@47.237.11.182:8443?security=tls&sni=t009.ylks.link&type=
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
 trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-141.94.221.127:80
 trojan://auto@104.18.14.166:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.14.166:8443
-trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.118.216:8443
-trojan://NISHIKUITAN222@47.236.180.24:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.180.24:8443
