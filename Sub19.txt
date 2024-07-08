@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=/1C1eEyrBbGr0r2HZ1tSkA&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
+trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.250.157.96:30443?security=tls&sni=klvip101.qlgq.fun&type=grpc&serviceName=klvip101#🔒 TR-GRPC-TLS 🇲🇾 MY-47.250.157.96:30443
 trojan://NISHIKUITAN222@172.67.199.233:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.199.233:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.110:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.110:2083
@@ -601,5 +603,3 @@ ss://NDgwNGYxNGItYzFmOC00NTJkLWE2ZWMtZWZmMTQ5MGFlYWM5Og==@104.27.193.64:443#🔒
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:6697
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.113:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:8118
-ss://NWJjYjQ1OGQtNmY0OS00ZTliLTkxMTYtMjJjYzYzODg3N2Q5Og==@104.21.70.184:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.70.184:443
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8009

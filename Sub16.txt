@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.97.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.28:80
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.235.75:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.75:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.47.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.47.114:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.164.168:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.164.168:80
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?security=none&type=ws&host=nl57.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2082
@@ -601,5 +603,3 @@ vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&ty
 vless://e698fa59-7695-4592-9c42-5730493a11b7@185.146.173.25:80?security=none&type=ws&host=Amooghannad.viPnufilter.Online.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.25:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.123.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.123.47:80
 vless://9d1e7bb9-cb5e-43c2-8329-02ce9ff8f14b@185.159.247.76:443?security=tls&sni=de2ocean.mohamadphp.ir.&type=grpc&serviceName=vless-grpc&fp=safari#🔒 VL-GRPC-TLS 🇧🇷 BR-185.159.247.76:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.154.44:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.103:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.103:80
