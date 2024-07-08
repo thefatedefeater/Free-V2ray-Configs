@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://13380deb-1572-467f-975e-476ef2c7c280@5.42.82.119:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=lC-IttXPaZQw17168-hWeaREu1aFDurUufNNCRyBkz0&sid=aa31260c#🔒 VL-GRPC-RLT 🇸🇪 SE-5.42.82.119:443
 vless://501ad7a2-6387-4c12-b4f2-7803e7ec9974@95.164.68.37:8443?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw&sid=fabb696169ae2a95#🔒 VL-TCP-RLT 🇬🇮 GI-95.164.68.37:8443
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@91.231.182.183:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-91.231.182.183:17552
 vless://0045e0d8-15f4-45d0-b201-926ba22fa1b7@5.255.125.90:4765?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=tWtt8Co0OkQsYwHK9-Ba9BCaYEFupTfpLEMYNxpGnlQ&sid=2b9a4f7a96e1082f#🔒 VL-GRPC-RLT 🇳🇱 NL-5.255.125.90:4765
@@ -602,4 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.79:80?security=none&type
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.1.33:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.33:443
 vless://ffffffff-bf32-4282-b875-eca220008daf@172.67.204.84:443?security=tls&sni=f.auto.r.exit.e.e.watashi-java.ir&type=ws&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.203.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.85.124:80

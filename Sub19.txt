@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.237.153.228:443
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
 trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@185.146.173.29:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir&type=grpc&serviceName=2pxF1YL0obWgOVYsTfLJX3ihXJUp&allowInsecure=1#🔒 TR-GRPC-NA 🇸🇪 SE-185.146.173.29:443
 trojan://b0b861c2c85346a389b9e95769c3cba4@104.19.159.6:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.6:443
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.105:6697#🔒 SS-TCP-NA 🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNb3hNcGdNM01MaEJ3MERCRHZQQW5C@77.221.137.197:25067#🔒 SS-TCP-NA 🇸🇪 SE-77.221.137.197:25067
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.121.164:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.121.164:80
 ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.16.125.175:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.125.175:2083
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50216#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50216
