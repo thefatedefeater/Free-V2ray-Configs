@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b1e1dfa4-2e9a-4f19-986e-3ec18d81481c@188.114.98.224:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣3️⃣
-vless://b1e1dfa4-2e9a-4f19-986e-3ec18d81481c@join-unlimiteddev-vpn.unlimiteddev.site:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | SE🇸🇪 | 0️⃣4️⃣
-vless://b1e1dfa4-2e9a-4f19-986e-3ec18d81481c@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣
-vless://3b87643f-359c-4acd-8ecf-1fea247b50bc@104.16.4.103:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣
-vless://6f8f844a-28f7-4244-b291-8fedede90176@104.21.26.124:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣
 vless://6f8f844a-28f7-4244-b291-8fedede90176@104.16.219.230:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣
 vless://6f8f844a-28f7-4244-b291-8fedede90176@104.16.4.103:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣4️⃣
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.22.75.105:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣5️⃣
