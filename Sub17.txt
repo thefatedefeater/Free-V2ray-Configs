@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://18b3cbba-e6ac-485a-9481-831a0415eab9@104.21.81.124:443?security=tls&sni=esEtSEcUrItylicenSe.CXHqSfX.wORkeRs.dev&type=ws&host=eSetsEcUrItYliCENSe.cxHQsFx.workeRS.deV&path=%2Ff5dkaVQIs1Ax7I6n%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.124:443
-vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.180.51:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.188:80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.145.85:2087?security=tls&sni=xin555.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.195.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.195.82:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.145.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.142:80
 vless://a56f87e8-3729-4932-bbd9-e97a37ff2b14@172.67.143.112:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.2053.mariyan.xyz&path=%2Fasrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2C%D8%B9%D8%B5%D8%B1%D9%86%D9%88%DB%8C%D9%86-ArV2ray%2C%D8%B9%D8%B5%D8%B1%D9%86%D9%88%DB%8C%D9%86-ArV2ray%2C%D8%B9%D8%B5%D8%B1%D9%86%D9%88%DB%8C%D9%86-ArV2ray%2C-%D8%B9%D8%B5%D8%B1%D9%86%D9%88%DB%8C%D9%86-%D8%A2%D8%B1%D9%86%D9%88%DB%8C%D9%86-%D8%A2%D8%B1%D9%86%D9%88%DB%8C%D9%86-%D8%A2%D8%B1%D9%86%D9%88%DB%8C%D9%86+%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.143.112:8880
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.51.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.51.167:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.157.62:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.62:80
@@ -603,3 +596,10 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.52:80?security=none&type=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@162.159.10.111:443?security=tls&sni=Hey.bAcHebiapAin.IR&type=ws&host=Hey.BaChEBiApAIN.ir&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.10.111:443
 vless://6eb07174-1887-4d62-9909-011d928a0a0a@172.67.172.15:2087?security=tls&sni=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&type=ws&host=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.15:2087
+vless://9eb374e4-bbcb-46bd-9ea4-71c0dacb8eb6@104.23.107.241:2053?security=tls&sni=aabbjjc.f-vipo.ir&type=ws&host=aabbjjc.f-vipo.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.107.241:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.126.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.126.197:80
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.150:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.150:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.41.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.41.81:80
+vless://faa65ad1-65fd-4be5-9c06-b811b60bd068@172.67.210.254:443?security=tls&sni=tr1.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.210.254:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.11:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.11:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.229:80
