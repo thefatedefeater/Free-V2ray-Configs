@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.201:2053?security=tls&sni=v2rayc.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.201:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.89:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.89:80
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.62:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.62:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.170:443?security=tls&sni=vf.ylks.link&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.170:443
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiAiMTguMTgzLjYzLjIxMyIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEy
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiY2FhY2ItYmNhYS1jYmFhLWNkYWItYWNiYWFiY2NhYmNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 trojan://abbacca-bcaa-abac-acdb-bcbcaaaacbcb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-22-TIR-1403 🕑 03:48
 trojan://baaacbc-acab-aabc-abcd-cbcbaaacbbac@127.0.0.1:2080?security=tls&type=tcp#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
+trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-213.186.36.123:43118
