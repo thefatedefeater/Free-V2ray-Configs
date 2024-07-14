@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.76:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.76:46002
 trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&sni=wnbtg.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.195:43118
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?#🔒 TR-TCP-NA 🇺🇸 US-207.244.65.58:443
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
@@ -602,4 +603,3 @@ ss://OWU2N2YxNWMtMTc4Zi00OTRjLWE4NDMtZjM3MWUzYjNmYTVkOg==@172.67.153.75:8080#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmYxYTI5NC0zYjZiLTQ1ZjUtYjMyMS0yMDFiODNlYTkxMTQ=@152.70.191.24:48702#🔒 SS-TCP-NA 🇩🇪 DE-152.70.191.24:48702
 ss://ZjAyMGE2Y2YtMGNlNy00N2YzLTg4YjMtZDg0MGRkOGE1NTdiOg==@104.21.94.125:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.94.125:80
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:5500
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNGZDaFdHb2pJY214dU1ST3VWUUlRS0dLUmRnMDl2S2ZHcDJTVHpTcmR6clVTd1o=@45.87.219.110:51348#🔒 SS-TCP-NA 🇧🇾 BY-45.87.219.110:51348
