@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&path=/&host=s9.in01.tech#%E6%9C%AA%E7%9F%A57
-trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#%E6%9C%AA%E7%9F%A58
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.195.184.112:46002?#%E6%9C%AA%E7%9F%A59
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US10%201.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50227#HK
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#US11%201.6MB%2Fs
@@ -603,3 +600,6 @@ vless://388de2f6-3920-45f9-945d-8059580c7367@185.146.173.58:8080?host=http.digic
 vless://475175eb-b0c7-4d14-9047-bc06295a77c2@zula.ir:80?host=ch1.dontbow.store.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣6️⃣
 vless://475175eb-b0c7-4d14-9047-bc06295a77c2@www.speedtest.net:80?host=ch1.dontbow.store.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣7️⃣
 vless://tel--ZEDMODEON@analytics-cn.elephant-tech.xyz.:80?encryption=none&host=akbn.net.v2rayng6.6.6.6.ir.com.site.%E5%88%97%E7%94%B7%E4%BA%8B%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.acountifyable.BUZZ.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON&security=none&type=ws#رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣
+vless://tel--ZEDMODEON@190.93.247.155:80?encryption=none&host=akbn.net.v2rayng6.6.6.6.ir.com.site.%E5%88%97%E7%94%B7%E4%BA%8B%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.acountifyable.BUZZ.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON&security=none&type=ws#رایگان | VLESS | @V2pedia | CR🇨🇷 | 0️⃣2️⃣
+vless://join--ZEDMODEON@190.93.247.155:2095?encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEO&security=none&type=ws#رایگان | VLESS | @V2pedia | CR🇨🇷 | 0️⃣3️⃣
+vless://eb0be87a-d75f-4b9a-b3d0-17e5daf1e586@185.146.173.158:80?host=kubs.st1lol.ir&path=%2FTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @V2pedia | SE🇸🇪 | 0️⃣4️⃣
