@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5af3a353-c53f-4800-98dc-d44609ad11f2@www.parsvds.ir:8080?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @VPNCUSTOMIZE | CA🇨🇦 | 0️⃣4️⃣
 vless://9e802d62-510f-4f64-b73c-5d116a7aea44@www.parsvds.ir:8080?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @VPNCUSTOMIZE | CA🇨🇦 | 0️⃣6️⃣
 vless://Telegram-ipV2Ray-kjo@www.speedtest.net:80?encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣1️⃣
 vless://Telegram-ipV2Ray-mkp@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣2️⃣
