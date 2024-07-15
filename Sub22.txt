@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
 trojan://c21f4cd1-7219-5039-8a8c-0f6bcf731760@188.114.99.143:8443?security=tls&sni=nexus.novaria.woRKERS.deV&type=ws&host=nexus.novaria.woRKERS.deV#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.143:8443
 trojan://NISHIKUITAN222@8.222.179.231:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.179.231:8443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.136.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmF
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MVRmalpzbG9JRXVhblJTQWVCSWpq@95.164.10.184:10430#🔒 SS-TCP-NA 🇩🇰 DK-95.164.10.184:10430
 ss://YWVzLTI1Ni1nY206MDVjYWQ5ZGUtNzBmZS00ZDk0LTkxN2QtOTY0ODg4NTc4OGIy@95.164.117.128:8443#🔒 SS-TCP-NA 🇩🇪 DE-95.164.117.128:8443
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.3.29:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.3.29:80
