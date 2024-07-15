@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A8090
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.162.200.28%3A3389
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-139.28.221.242%3A27393
@@ -602,4 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.223.102:80?security=none&typ
 vless://9221b170-e8a3-4abf-a303-224b31558ec3@104.25.255.244:443?security=tls&sni=cc2.kosnanatfilterchi.eu.org&type=ws&host=cc2.kosnanatfilterchi.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.244:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.148.121:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.121:80
 vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@162.159.136.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:8080
-vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.187:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.187:443
