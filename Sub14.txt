@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.13.121:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.121:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.185:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.101.172:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.172:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.231:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.231:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.114.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.114.40:80
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.137.198:443?security=tls&sni=edgu.pureboy.eu.org&type=ws&host=edgu.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:8443?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:8443
@@ -603,3 +599,7 @@ vless://c46e9a8a-226e-4cc2-aeff-31c774e1e4f9@172.66.47.182:443?security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.167.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.167.69:80
 vless://1a95bc58-e851-4699-b88d-5332e79b2da9@172.67.132.247:443?security=tls&sni=v2rayfree.wancloudfa.shop&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.247:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.245.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.33:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.66.42.198:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.42.198:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.254.140.155:443?security=tls&sni=hkb.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.155:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.242.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.242.72:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.66:80
