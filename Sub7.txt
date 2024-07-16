@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.121.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.121.139:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.83.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.83.24:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.49.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.11:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.206:80
@@ -603,3 +602,4 @@ vless://6115dff7-688f-4398-e705-52f8a319a1cc@188.245.62.214:446?security=none&ty
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.15.19:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2083
 vless://9d007d92-9729-47c5-9d8f-a49ed59a0e6a@172.64.35.226:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.226:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.236:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.217.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.217.109:80
