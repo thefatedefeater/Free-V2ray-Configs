@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.114.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.114.1:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.9.129:2053?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.210.9.129:2053
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.230.52:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.230.52:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.58.89:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.58.89:80
 vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@103.184.44.4:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.4:2083
@@ -603,3 +601,5 @@ vless://35ae9f57-0a63-43dc-a391-530f05c96963@104.21.25.39:443?security=tls&sni=b
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.97.196:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.97.196:443
 vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.66.43.139:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2FBLsNlVjvcIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.139:443
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?security=none&type=ws&host=ca.vpnbase.net&path=%2Fhttp#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.67.73:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.147.147.28:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-141.147.147.28:443
