@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://MTdmYWZhZjktNzQwMi00MGViLTg3YWUtYTc1OTQ0Yzg0YzUyOg==@172.67.204.84:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:8443
 ss://NGQ1NDAwZWYtMjAxZC00M2EzLTg5MGYtYzc2Nzc0NmZjNTI0Og==@172.67.187.122:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.187.122:443
 ss://MDMwZmY0Y2YtNjE5NC00MTc3LTkwZGEtYTQ5ZjQ2ZjlhZmNlOg==@172.67.188.196:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.188.196:443
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
@@ -602,4 +603,3 @@ trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&type=ws
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVkhrRzZKN0ZDTHpPY3p1Y1I0SGFW@85.192.63.21:10385#%E6%9C%AA%E7%9F%A517
 trojan://NISHIKUITAN222@8.219.111.147:443?security=tls&type=ws&sni=t600.ylks.link&path=/&host=t600.ylks.link#%E6%9C%AA%E7%9F%A518
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8000#US7%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:443#US8%201.9MB%2Fs
