@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.241.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.241.241:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.164.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.164.252:80
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:8443?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:8443
 vless://f4b3c409-2ec5-49f7-9c0d-ca4ed6a292ee@190.93.247.155:2083?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=grpc&serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2083
@@ -603,3 +602,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.58:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.130:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.145.130:80
 vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?security=none&type=ws&host=sbp.unironically.ir&path=/FIRELINKVPNNN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.10.138:8080
 vless://78d8c4e0-ef1e-4321-8e90-77ddd5a694d3@185.146.173.200:8880?security=none&type=ws&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir&path=@mehrosaboran,@mehrosaboran#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.200:8880
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.62.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.62.70:80
