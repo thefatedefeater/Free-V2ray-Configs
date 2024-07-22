@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:8882
-ss://NTg1NzlhNTQtZDI2MS00YTNjLWExNjEtZjk0NDZhMzA3MzQzOg==@104.21.13.85:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.13.85:443
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30013#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30013
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.162.200.225:8091#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8091
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.69.44:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.69.44:443
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@162.159.36.195:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.36.195:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:1443#🔒 SS-TCP-NA 🇩🇪 DE-94.131.111.32:1443
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.18.10.128:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.10.128:2083
 ss://ZDNmNTgwNzktNjMxYS00MjMyLThhNTMtODljYTU1NWQ2NmNmOg==@104.18.25.92:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.25.92:2083
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8882
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.225:8119#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8119
@@ -603,3 +594,12 @@ vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?alpn=h2%2Chttp%2F
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?encryption=none&host=vip-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&security=tls&sni=vip-romax-tiktok.hsjsak.ir&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣1️⃣
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣2️⃣
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=%2F&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣3️⃣
+vless://41c505d7-a447-40f9-9af0-96eea2afee8b@zula.ir:8080?encryption=none&host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.&path=SHHPROXY%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣4️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?encryption=none&host=fraud.chase&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣5️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?encryption=none&host=fraud.chase&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣6️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣
+vless://700d46e4-3cbd-4e40-82e2-75d54b239c25@188.114.98.220:8080?encryption=none&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&path=%2FTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣
+vless://700d46e4-3cbd-4e40-82e2-75d54b239c25@104.26.14.16:8080?encryption=none&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&path=%2FTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣
+vless://a22ab08f-7c86-45db-9e76-7bf0f8f6a227@172.67.71.160:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=MORQ.asve.IR&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=morq.asve.ir&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣
+vless://SVNTEAM@mtn.VPNPROSEC.com:80?encryption=none&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&path=%2F%3Fed%3D443&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣5️⃣
+vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣6️⃣
