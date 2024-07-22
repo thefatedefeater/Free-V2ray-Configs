@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443?sni=golinkwuxian.top#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.133.220:443
-trojan://96950280-3970-11ef-9ee2-1239d0255272@172.67.204.84:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@104.16.132.229:443?security=tls&sni=guolicheng.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.132.229:443
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@76.223.54.146:443?security=tls&sni=t3.teslacdn2.live&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-76.223.54.146:443
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#🔒 SS-TCP-NA 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.83:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8009
 ss://ZDk3OGMyNmQtMWM0My00NDBiLWI2OTYtYmU5NTAwMzJhYjZmOg==@172.67.222.169:2095#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.222.169:2095
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.71:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:2376
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIaG0yOVdpUVVqTEhJQlNNTERkWDJY@128.199.76.239:3127#🔒 SS-TCP-NA 🇸🇬 SG-128.199.76.239:3127
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.86.135.225:6697#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:6697
