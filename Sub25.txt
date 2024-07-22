@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.208.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.208.103:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.133.205:443?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.205:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.0.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.0.240:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.80:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.80:443
@@ -603,3 +602,4 @@ trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&sni=jo
 trojan://fb89083a4ba1df5@172.67.145.123:443?security=tls&sni=turk-net-shop.internetir.biz.tr&type=grpc&serviceName=wwww&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.145.123:443
 trojan://NISHIKUITAN222@47.237.82.15:8443?sni=t009.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.237.82.15:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.219:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.219:443
+trojan://telegram-id-privatevpns@3.78.98.171:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.98.171:22222
