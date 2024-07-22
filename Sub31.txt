@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://NGQ1NDAwZWYtMjAxZC00M2EzLTg5MGYtYzc2Nzc0NmZjNTI0Og==@172.67.187.122:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.187.122:443
-ss://YzU3ZGI4ZTItNTU1ZS00YzQ4LWIyNjItZWMyMGI0YWU2YTUwOg==@172.67.178.69:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.178.69:2083
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.21.21.78:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.21.78:80
-ss://ZjVhNzg1MTQtMWE5NC00ODZlLTkyYTctM2JjOTgxNzA5NWE2Og==@104.21.34.74:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.34.74:443
-ss://ODZiYThiMzItNzFhNy01ODljLWI3MjgtOTkxYzdjNzI2ZDYwOg==@104.17.3.54:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.3.54:2096
-ss://bm9uZTphYWNjYmFiLWFhY2ItYWJhYy1jZGFiLWJhY2FiYmJhY2NjYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNy0yMiAxODo0MCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A5
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.188:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A54
@@ -603,3 +594,12 @@ vless://700d46e4-3cbd-4e40-82e2-75d54b239c25@104.26.14.16:8080?encryption=none&h
 vless://a22ab08f-7c86-45db-9e76-7bf0f8f6a227@172.67.71.160:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=MORQ.asve.IR&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=morq.asve.ir&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?encryption=none&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&path=%2F%3Fed%3D443&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣5️⃣
 vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣6️⃣
+vless://34a54cb5-9983-4b5d-abf3-4326217f2f59@188.114.97.3:443?encryption=none&fp=chrome&host=topoli.asve.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=topoli.asve.ir&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣7️⃣
+vless://e21c01a9-51fd-4176-ad61-1f2e0fedf190@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣1️⃣
+vless://2a093825-5348-4597-b9ce-02ddf2d8fe7a@www.parsvds.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣
+vless://2a093825-5348-4597-b9ce-02ddf2d8fe7a@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣3️⃣
+vless://d1d0ec5f-fb1f-4373-8de6-6f44c9238697@www.parsvds.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣
+vless://d1d0ec5f-fb1f-4373-8de6-6f44c9238697@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣
+vless://13e3944d-2c37-4d6d-b3d0-c493f73d4984@www.parsvds.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣
+vless://13e3944d-2c37-4d6d-b3d0-c493f73d4984@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣
+vless://3b103a56-c494-4272-a1db-07ddf28dc98f@104.18.86.70:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣
