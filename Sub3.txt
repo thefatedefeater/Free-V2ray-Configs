@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI@bgp3.jjjjjj.icu:50003#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%95%87%E6%B1%9F%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IHYycmF5ZnJlZS5ldS5vcmciLCJhZGQiOiIxNTUuNzI0MDY0Lnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjQ5MTcwNDktZDI2NS00NzdmLWE0Y2YtYjUwNzZlNzQ2MjcwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVkdndzIiwiaG9zdCI6IjE1NS43MjQwNjQueHl6IiwidGxzIjoidGxzIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI@hk15.jjjjjj.icu:53251#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%95%87%E6%B1%9F%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%201
@@ -602,4 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.164.239:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.118.199:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.215:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.215:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.15.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.98:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.65:80
