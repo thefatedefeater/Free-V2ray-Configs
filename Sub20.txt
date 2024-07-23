@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.195:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&type=ws&host=94391E80.uVpn-Org.paGes.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.252:443
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.5:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.5:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:2053?security=tls&sni=4Bf8FC80.mIRaCLEsHOp.PAgeS.deV&type=ws&host=4Bf8fC80.MiRACLEshOp.pAGES.Dev&path=%2F@V2RayyNGvpn%2FiEqRN0mjgnUcoSwK%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.126:2053
@@ -602,4 +603,3 @@ vless://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@14.102.228.73:2053?security=tls&sni
 vless://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:2083?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2F@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.75:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.164.190:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.164.190:443
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.47.199:443?security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&host=e420ceed.aryoo-vpn-friends.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.199:443
-vless://9849365c-2c5e-4630-9439-702192f9cb50@185.133.35.200:8880?security=none&type=ws&host=fadayehamatun.loveiran01.com&path=%2FEskiNaroKharkose-EskiNaroKharkose-EskiNaroKharkose#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.200:8880
