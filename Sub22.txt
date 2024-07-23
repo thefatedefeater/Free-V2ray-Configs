@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ac2ce560-ee33-407b-b376-73fd4100cb08@104.22.15.212:2087?security=tls&sni=orders-onlinestore-dev01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.15.212:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@146.56.154.156:43453?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-146.56.154.156:43453
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.231:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.98.231:80
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.242.183.7:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇭🇰 HK-47.242.183.7:2053
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.25:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.247.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.247.106:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.98.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.30:80
-vless://fce4d506-c2ef-415a-a3ec-8fc5bd0bf97f@31.7.78.81:2095?security=none&type=ws&host=www.speedtest.net&path=/-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------#🔒 VL-WS-NONE 🇮🇷 IR-31.7.78.81:2095
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.5.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.5.134:80
-vless://f9dd4f89-c47f-45ca-919c-013b46ff3be0@172.64.80.1:80?security=none&type=ws&host=Р#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.80.1:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.214:443?security=tls&sni=zdy726.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.214:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2053
-vless://99dfaa83-59fc-430c-9f35-11670002b25f@162.55.163.80:12345?security=none&type=tcp&host=uplod.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-162.55.163.80:12345
 vless://1b4d8825-7d93-4fa0-9bf8-1575cec3b45f@162.159.129.233:2095?security=none&type=ws&host=Vxlan.unique69.com&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.233:2095
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.86.145:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.145:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.180.191:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.180.191:80
@@ -603,3 +590,16 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.236.132:80?security=none&typ
 vless://d0cb0805-3db7-4eb2-8848-c70936ce935a@104.18.202.232:8443?security=tls&sni=FIn.Melov2ray.Shop&type=grpc&serviceName=@melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
 vless://69b6d557-f883-4606-8fd3-a7a678d4c885@85.133.202.113:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.202.113:8071
 vless://3acf32f6-6797-49cb-8154-6fb412ccfa1f@188.114.98.224:80?security=none&type=ws&host=anal.st1lol.ir&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.184:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.95.184:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.176:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.176:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.6.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.131:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.228.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.73:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.152.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.152.183:80
+vless://8ccf9188-925e-4287-efd2-04002478ddb5@141.193.213.31:8443?security=tls&sni=narcod.numallas.space&type=grpc&serviceName=@narcod_ping&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.31:8443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.205.194:2083?security=tls&sni=bPBg.168168.Us.Kg&type=ws&host=BPbg.168168.Us.kG&path=/O3R46uTWxvXEMCHr/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.65.205.194:2083
+vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&sni=MSdOnoR.pagEs.dEV&type=ws&host=mSDONOr.Pages.dEv&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.181.38:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.233:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.123.43:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.123.43:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.59.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.206:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.201:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.201:8443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.84:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.155.84:80
