@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://NISHIKUITAN222@8.219.139.13:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.139.13:8443
-trojan://c5110090-c3a2-429e-b9b8-072b6535be1b@104.19.142.99:443?security=tls&sni=cfus4.trojanwss.xyz&type=ws&host=cfus4.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.142.99:443
-trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@172.67.215.180:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.215.180:443
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.135:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.135:443
 trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.231:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.231:2087
 trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443
@@ -603,3 +599,7 @@ trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp#�
 trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-43.206.127.212:443
 trojan://telegram-id-privatevpns@13.51.214.114:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.214.114:22222
 trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.203.7:2087
+trojan://pUxG77WPOZ@104.18.202.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
+trojan://telegram-id-privatevpns@34.251.133.46:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.251.133.46:22222
+trojan://NISHIKUITAN222@8.219.111.175:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.175:8443
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443

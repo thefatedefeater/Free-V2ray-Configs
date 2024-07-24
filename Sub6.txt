@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.124:80
-vless://ad8d6bc3-7540-459e-a75a-1febfa413f78@162.159.137.232:2082?security=none&type=ws&host=C1.unique69.com&path=%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel%2F%40SevenVpnChannel#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2082
-vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.185:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.185:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.45.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.45.28:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.13.76:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.13.76:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.172:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.172:80
 vless://67e54a13-6edc-4a15-c108-66e9c0833165@95.179.207.97:443?security=tls&sni=ip.suski2025.ir&type=tcp&host=ip.suski2025.ir&path=/?xs-vpn&headerType=http&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇬🇧 GB-95.179.207.97:443
@@ -603,3 +599,7 @@ vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?security=tls&sni=f
 vless://f6238fcc-96b3-44a6-bdda-1a8d715e1f86@172.67.190.236:80?security=none&type=ws&host=SHHPROXY-V2ray.斯涅過濾器69.website#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.236:80
 vless://2c86cf39-266b-413c-816b-2f77fd0f30b5@104.21.28.172:2083?security=tls&sni=logindigital.liongame1.ir&type=ws&path=/JoinChanel-@proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.@proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.172:2083
 vless://fcde1b50-577e-56c5-9844-5972c5bf74cb@172.67.138.69:80?security=none&type=ws&host=vpncustomize-vpncustomize-vpncustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.40.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.188:80
+vless://4c3fb6f5-1a79-454f-8ca5-1484a487b793@172.67.164.80:2083?security=tls&sni=p14ne-wall.v2rybartar.monster&type=ws&host=panel14.v2rybartar.monster&path=/&fp=chrome&alpn=http/1.1,h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.80:2083
+vless://47155444-ead8-48b7-a7f4-2ce403ec4a40@188.114.97.141:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.81.172:80
