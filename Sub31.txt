@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.16.39.23:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.39.23:80
 ss://NTUxMmJmNjktYTU2My00ZWE3LWJlMmItMmQxNGQyN2U2MzIzOg==@104.21.10.208:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.10.208:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#🔒 SS-TCP-NA 🇨🇿 CZ-194.87.179.169:40928
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7001
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#US36%201.9MB%2Fs
 trojan://Libertas*One*E*@172.67.180.35:443?security=tls&type=ws&sni=ironone.libertasiran.cloud&path=/n890#%E6%9C%AA%E7%9F%A571
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.22:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A572
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.14.85:2096?security=tls&type=ws&sni=mailbox.CpIfOrperSiA.UK&path=trojan-ws/?ed&host=mailbox.CpIfOrperSiA.UK#%E6%9C%AA%E7%9F%A573
-trojan://huge123456@131.186.21.135:60954?security=tls&type=tcp&sni=h.iveze.com#%E6%9C%AA%E7%9F%A574
