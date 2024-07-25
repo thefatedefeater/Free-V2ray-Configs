@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c7a0b0ff-f092-48f6-8c3b-7554b84d907f@2.189.59.2:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&type=grpc&serviceName=Channel%3A%40UnlimitedDev&fp=chrome#🔒 VL-GRPC-TLS 🇮🇷 IR-2.189.59.2:443
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.159.247.174:443?security=tls&sni=pages.dev&type=ws&host=tmcir.pages.dev#🔒 VL-WS-TLS 🇧🇷 BR-185.159.247.174:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.171.94:2053?security=tls&sni=hk667.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.171.94:2053
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.77.106:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🇺🇸 US-172.67.77.106:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.172:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.191:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.191:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.66.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.66.221:80
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.25.255.254:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.254:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.222.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.159:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.23.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.23.188:443
 vless://ba7611bd-90af-4c0f-aad2-190b873b3caf@172.67.188.156:443?security=tls&sni=de1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.188.156:443
@@ -603,3 +595,11 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.194.108:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.202.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.201:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.125.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.125.197:80
 vless://0f675651-fd42-4b5c-a109-cb5958256801@108.162.195.205:443?security=tls&sni=xn--mgbph5fj.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-108.162.195.205:443
+vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@150.136.241.40:80?security=none&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=/aa#🔒 VL-WS-NONE 🇺🇸 US-150.136.241.40:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.235.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.103:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.147.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.147.99:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.219.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.219.95:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&path=%2FTelegram-@V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
+vless://5886b978-b080-4612-b420-4d829080561d@172.67.190.177:443?security=tls&sni=PPaL03.dR-BrAdY-GorCZanY.wOrKErS.dev&type=ws&host=PpaL03.DR-BRaDy-gORczanY.WOrKErs.DEV#🔒 VL-WS-TLS 🇺🇸 US-172.67.190.177:443
+vless://8e6bf3fc-1f1d-4101-b2e9-b7142271eb9c@45.131.4.91:2083?security=tls&sni=Daily-Configs.darkmood.cfd.&type=ws&host=Daily-Configs.darkmood.cfd.&path=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.91:2083
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.78:80
