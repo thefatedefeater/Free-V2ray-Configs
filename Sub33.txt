@@ -3,10 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.102:5004#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://telegram-id-privatevpns@13.51.101.8:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5125%209.7MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9101#US63%20713.7KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTFZENmxiRU5qekcxdmoxNUZ2cTdy@62.113.110.233:15174#%E6%9C%AA%E7%9F%A5126
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#%E6%9C%AA%E7%9F%A5105
+trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A5106
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.93.118:8882#US80%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.43:8009#US81%201.9MB%2Fs
 
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 trojan://b06d7f06-51ba-402d-991a-3fe1e432247c@usa.lydurlclub.top:443?allowInsecure=1#0|-https://t.me/MrXbin-12
