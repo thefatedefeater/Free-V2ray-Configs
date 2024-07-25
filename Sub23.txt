@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.166.5:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🇺🇸 US-172.67.166.5:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.18:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.118.18:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.87.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.87.176:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.146.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.146.240:80
 vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.192:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.192:443
@@ -603,3 +601,5 @@ vless://373db777-cc58-497f-bebf-d79a90bb3d27@104.21.51.200:8880?security=none&ty
 vless://af59df52-2928-483e-9767-8c447f1cd283@172.67.215.219:8443?security=tls&sni=provider.fandlandalphapro.ir&type=ws&host=provider.fandlandalphapro.ir&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.215.219:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.11.68:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.68:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.52:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.52:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.255.124:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.255.124:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@168.138.15.75:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇦🇺 AU-168.138.15.75:443

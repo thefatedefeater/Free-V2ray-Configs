@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://DIGiv2RAY@185.146.173.93:2095?encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣1️⃣
-vless://DIGiV2RAY@zula.ir:2095?encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣
 vless://DIGiV2RAY@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣
 vless://DIGiV2RAY@185.146.173.93:2095?encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣4️⃣
 vless://DIGIV2RAY@zula.ir:2095?encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣5️⃣
