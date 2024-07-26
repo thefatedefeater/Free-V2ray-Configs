@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.135.0:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🇺🇸 US-172.64.135.0:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.245:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.166.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.166.161:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.221.108:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.221.108:80
 vless://d7b998cb-6d17-470c-9230-d23e43eb5c07@185.146.173.25:2052?security=none&type=ws&host=baStani-kim.vipNufilter.oNline.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.25:2052
@@ -601,5 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.21:80?type=ws&host=kr1.17
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.93:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.93:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.186:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
-vless://f3607e1b-507c-49b6-b12f-a03051bc3147@162.159.152.2:8080?security=none&type=httpupgrade&host=iran_mehr_vip_iran_mehr_vip.mybia2music.ir.&path=IRAN_MEHR_VPN-----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN--------IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN--------IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN--------IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN--------IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN----IRAN_MEHR_VPN#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.152.2:8080
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.26.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.26.14:80

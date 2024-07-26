@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@141.11.202.177:2096?security=tls&sni=GeR6.SimAnSaNat.iR.&type=ws&host=GeR6.SimAnSaNat.iR.&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.177:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.221.169:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.221.169:443
 vless://0b4b623c-2914-494d-b6b8-b03fbf4d6655@104.21.24.31:443?security=tls&sni=navia.raidenshogun.cloudns.org&type=ws&host=navia.raidenshogun.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.31:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.186.188:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.186.188:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.124:80
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443?security=tls&sni
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.133.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.93.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🇺🇸 US-172.67.93.251:443
 vless://38928290-00af-4255-9006-57df913e1f95@104.21.233.140:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.140:80
-vless://cec345db-3d0f-4b59-8499-f9780491b717@104.18.14.118:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.118:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.107:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.107:80

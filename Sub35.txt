@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?encryption=none&host=WORKEr-LUcKy-sOunD-244a.VodaBaj775.WORKErs.deV&path=%2FpAb8JqwxGqHi43xN%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣5️⃣
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@worker-lucky-sound-244a.vodabaj775.workers.dev:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=WORKEr-LUcKY-SOund-244a.vodabaJ775.WORkErs.DEv&path=%2FdF3LoQEsRzYw163M%3Fed%3D2560&security=tls&sni=WorkeR-LUCky-soUNd-244A.vODabAJ775.workERS.deV&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣6️⃣
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8880?encryption=none&host=WoRKeR-lUCkY-SOunD-244A.VOdaBaJ775.WOrKErs.dEv&path=%2FMWHfJJCr3TQaSVRM%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣7️⃣
 vless://d807bbdf-ef44-4ac7-9553-2a74eea4ae09@www.speedtest.net:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?encryption=none&host=1.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣
 vless://ff8916ae-c01e-4369-9309-4ba8938b961d@www.parsvds.ir:8880?encryption=none&host=LiV2ryLIGHTNING6spEedTest.NeT.lightning6.ONlinE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣4️⃣
@@ -53,7 +50,6 @@ trojan://telegram-id-privatevpns@13.43.202.70:22222?alpn=http%2F1.1&headerType=n
 trojan://telegram-id-privatevpns@51.44.49.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣4️⃣
 trojan://telegram-id-privatevpns@13.39.209.96:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣
 trojan://telegram-id-privatevpns@3.75.29.113:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@35.159.156.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣
 trojan://telegram-id-directvpn@34.248.217.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@52.31.142.65:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@18.134.195.225:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣
@@ -75,8 +71,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTm5yUEJha0R3SUNHeW94c0RjTHk1@185.65.202.99:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.162:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.53:5498#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.237:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUXQxVVNHTE9Xc2tJR1BvVlg1bEtF@212.113.106.76:61992#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.53:8091#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.53:8091#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+IE%F0%9F%87%AE%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.158.26.91:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 tuic://
