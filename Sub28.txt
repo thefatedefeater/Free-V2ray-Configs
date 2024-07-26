@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Watashi_VPN@104.18.12.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.250.157.96:10443?security=tls&sni=klvip101.qlgq.fun&type=grpc&serviceName=klvip101#🔒 TR-GRPC-TLS 🇲🇾 MY-47.250.157.96:10443
 trojan://c5110090-c3a2-429e-b9b8-072b6535be1b@104.19.143.99:443?security=tls&sni=cfus4.trojanwss.xyz&type=ws&host=cfus4.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.143.99:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.192.157:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.157:443
@@ -602,4 +603,3 @@ trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bang
 trojan://NISHIKUITAN222@8.222.193.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.193.65:8443
 trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.14.85:2096?security=tls&sni=mailbox.CpIfOrperSiA.UK&type=ws&host=mailbox.CpIfOrperSiA.UK&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096
