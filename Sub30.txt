@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://Watashi_VPN@162.159.128.4:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?TM@AZARBAYJAB1+TM@AZARBAYJAB1+@AZARBAYJAB1&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.4:2053
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.254:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.254:2053
 trojan://NISHIKUITAN222@47.237.95.13:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.95.13:8443
 trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@104.21.46.126:2053?security=tls&sni=ip-cf.hukinghumans-655.WorkeRs.dEv&type=ws&host=ip-cf.hukinghumans-655.WorkeRs.dEv&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.46.126:2053
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:9090#🔒 SS-TCP-NA �
 ss://ODI2ZTQzZDItZGJlOS00MWE2LWJiZjgtM2FlZDJmOTNmNWQ0Og==@172.66.47.44:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.44:443
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.24.37:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.24.37:80
 ss://OWU2N2YxNWMtMTc4Zi00OTRjLWE4NDMtZjM3MWUzYjNmYTVkOg==@172.67.227.28:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.227.28:8080
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.86.135.225:6697#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:6697
