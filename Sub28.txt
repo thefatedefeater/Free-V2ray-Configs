@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://18f5511e-173d-4ff0-adb8-1d6b0b6efb30@199.212.90.188:2095?security=none&type=httpupgrade&host=Free.cgnm.ir#🔒 VL-HTTPUPGRADE-NONE 🇨🇦 CA-199.212.90.188:2095
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@104.18.81.213:2096?security=tls&sni=gllb4.3mehdiii.net&type=ws&host=gllb4.3mehdiii.net&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.81.213:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.233.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.30:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.117.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.117.139:80
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN222@8.219.11.158:8443?security=tls&sni=t221.ylks.link&type=w
 trojan://pWPz1oxSSF@172.67.220.144:2087?security=tls&sni=vip.likebegirrubikaa.ir&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.220.144:2087
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
 trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:2053
-trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-43.206.127.212:443
