@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.34:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.221.34:80
-vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.111:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.60.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.60.58:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.109.40:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.109.40:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.210.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.210.129:80
 vless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@104.21.78.70:443?security=tls&sni=amirjk12.benyamin-bozorgi1379.workers.dev&type=ws&host=amirjk12.benyamin-bozorgi1379.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.70:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.46.106:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.106:443
@@ -603,3 +599,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.2.65:80?security=none&type=w
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.1.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.30:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.11:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.11:80
 vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@172.64.80.1:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.80.1:2096
+vless://d80a5fad-5b13-4880-83e9-d455d8ca4411@45.80.111.13:8443?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-45.80.111.13:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.63.8:443?security=tls&sni=jpn.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.0.63.8:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.127.81:80
+vless://a8b0a805-b641-4bdc-8736-f87e82b73091@152.42.174.123:443?security=tls&sni=@MR_ALEX_ID&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-152.42.174.123:443
