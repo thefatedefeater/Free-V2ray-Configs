@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.102.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.102.152:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.52.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.52.81:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.122:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.122:443
 vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@104.21.10.208:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FusDY5wtPlH9B9D0X%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.208:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.111.91:80
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.60:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.60:443
@@ -600,6 +603,3 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w
 vless://9eb374e4-bbcb-46bd-9ea4-71c0dacb8eb6@104.23.107.241:2053?security=tls&sni=aabbjjc.f-vipo.ir&type=ws&host=aabbjjc.f-vipo.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.107.241:2053
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.7.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.7.159:80
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.21.45.154:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.154:8443
-vless://18f5511e-173d-4ff0-adb8-1d6b0b6efb30@104.21.45.181:2087?security=tls&sni=Free.cgnm.ir&type=httpupgrade&host=Free.cgnm.ir#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.45.181:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.199.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.199.99:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.146.170:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.146.170:80

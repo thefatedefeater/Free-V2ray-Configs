@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://saMgiangGt@172.67.180.110:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.180.110:443
+trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.57:43118
+trojan://ypDt8RkT7J@151.115.88.59:43118?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&allowInsecure=1#🔒 TR-TCP-TLS 🇵🇱 PL-151.115.88.59:43118
 trojan://3080amimVq@104.21.72.61:2053?security=tls&sni=frankfoortvip.followprovider.ir&type=ws&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.61:2053
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.61.5:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.5:443
 trojan://auto@104.26.13.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
@@ -600,6 +603,3 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.191.27:80#🔒 
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:4444
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348#🔒 SS-TCP-NA 🇷🇺 RU-92.53.86.220:51348
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8091
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8080
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.71.141:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.71.141:80
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8119
