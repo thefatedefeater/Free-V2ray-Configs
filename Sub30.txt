@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
+trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@162.159.130.67:2087?security=tls&sni=mailbox.CPiFORPErsIa.Uk&type=ws&host=mailbox.CPiFORPErsIa.Uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.67:2087
+trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls&sni=uk-full.privateip.net#🔒 TR-TCP-TLS 🇬🇧 GB-198.244.190.189:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.215:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.215:2087
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.10.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.10.194:443
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@142.171.219.14:21156?security=tls&sni=lavip101.qlgq.fun&type=grpc&serviceName=lavip101#🔒 TR-GRPC-TLS 🇺🇸 US-142.171.219.14:21156
@@ -599,7 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.252:443?security=tls&sni
 trojan://auto@172.67.161.104:443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&host=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&path=%2Fabbas.ab841vpn.workers.dev%2F%3Fed%3D2560.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:443
 trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms#🔒 TR-TCP-NA 🇩🇪 DE-146.19.247.183:443
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
-trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&sni=prosweed.ghodratebartar.ir&type=ws&host=prosweed.ghodratebartar.ir&path=/NHDAEsR7pxcS1u6yNX6K824c#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.138.163:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.141:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.141:2083
-trojan://telegram-id-directvpn@18.130.168.33:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.130.168.33:22222
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
