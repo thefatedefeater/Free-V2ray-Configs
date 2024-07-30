@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#🇨🇦CA | 🔴 | vless | @Capital_NET | 19
+vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🇳🇱NL | 🟢 | vless | @Capital_NET | 20
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=/#🇳🇱NL | 🔴 | vless | @Capital_NET | 21
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?mode=gun&security=reality&encryption=none&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=fada4f5f#🇫🇮FI | 🔴 | vless | @Capital_NET | 22
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#🇩🇪DE | 🔴 | vless | @Capital_NET | 23
@@ -40,8 +42,8 @@ vless://ID-TELEGRAM-XPNTEAM@xpnteam-mtn-free.frqansgame.ir:10709?security=none&e
 vless://4213defc-23ed-4d74-a07b-3aed0a5c40a4@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @flyv2ray | 5
 vless://86842247-aef7-421f-ab80-8506d940991b@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @flyv2ray | 7
 vless://9c1e140a-0cbd-4c55-9df0-333e08b640d7@[2a01:4f9:c011:28db::1]:18195?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#❔XX | 🔴 | vless | @iP_CF | 0
-vless://44e5341b-e7ee-436f-ba1f-b960d1fbcadd@[2a01:4f9:c011:28db::1]:2087?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#❔XX | 🔴 | vless | @iP_CF | 1
-vless://d33de827-c412-4e6c-8083-7f402e934975@193.107.48.189:17957?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR | 🔴 | vless | @iP_CF | 6
+vless://44e5341b-e7ee-436f-ba1f-b960d1fbcadd@[2a01:4f9:c011:28db::1]:2087?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#❔XX | 🔴 | vless | @iP_CF | 2
+vless://d33de827-c412-4e6c-8083-7f402e934975@193.107.48.189:17957?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR | 🔴 | vless | @iP_CF | 7
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry?ed=8080&security=none&encryption=none&host=1.v2.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 0
 vless://52d63192-e672-44ea-a6d8-a0427906ccc7@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 1
 vless://1b2035ff-e01f-4a0c-8f4b-6ec1ee3ca428@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 3
@@ -601,5 +603,3 @@ ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJ
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJrTVRZdE9USmpOUzB5TkRoaU1USmpaRFE0TUdR@free.2weradf.xyz:36143#%F0%9F%87%AD%F0%9F%87%B0%207%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%201x%20HK
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJrTVRZdE9USmpOUzB5TkRoaU1USmpaRFE0TUdR@free.2weradf.xyz:36145#%F0%9F%87%AD%F0%9F%87%B0%207%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85IP%2003%20%7C%201x%20HK
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJrTVRZdE9USmpOUzB5TkRoaU1USmpaRFE0TUdR@free.2weradf.xyz:36241#%F0%9F%87%A8%F0%9F%87%B3%207%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001%20%7C%201x%20TW
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJrTVRZdE9USmpOUzB5TkRoaU1USmpaRFE0TUdR@free.2weradf.xyz:36243#%F0%9F%87%A8%F0%9F%87%B3%207%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002%20%7C%201x%20TW
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNVpUVmlZalV6TUMwMk0yWXdMVFJrTVRZdE9USmpOUzB5TkRoaU1USmpaRFE0TUdR@free.2weradf.xyz:36245#%F0%9F%87%A8%F0%9F%87%B3%207%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2003%20%7C%201x%20TW
