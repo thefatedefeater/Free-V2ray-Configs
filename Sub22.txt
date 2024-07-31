@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@45.205.0.196:443?security=tls&sni=PAGES.DEV&type=ws&host=tmcir.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.196:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.67.73:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.197.103:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.197.103:443
 vless://6324e2ab-9801-4768-8d6c-cb9e657807eb@188.114.97.160:443?security=tls&sni=SAra-paNel.paGes.dev&type=ws&host=SaRA-pANEl.pAGEs.DEv&path=%2Fqfl5QCrM5372YQ4H%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.160:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.203:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.203:80
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.196:80?security=none&typ
 vless://24e3764c-c43b-4425-bdc4-41407317febd@104.16.219.230:2087?security=tls&sni=vi6.tavalede.co&type=ws&host=vi6.tavalede.co&path=%2F%40falconpolv2rayng%40falconpolv2rayng%40falconpolv2rayng%40falconpolv2rayng%40falconpolv2rayng%40falconpolv2rayng&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.230:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.80.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.80.71:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.91.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.156:80
-vless://70059fed-be28-43fb-b2b7-1384075e7007@104.18.74.104:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.74.104:8080
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.87.7:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.87.7:80

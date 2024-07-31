@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b7666137-84cd-4731-a2b4-3d0d4091f100@188.114.99.99:8080?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirepro.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.99:8080
+vless://de20645d-cb33-436c-8d62-d0cf0fec9e4e@104.17.64.87:80?security=none&type=ws&host=pro.registration.network&path=%2FlHtVsOpnWC8m2y3PYLHrPs74EJW#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.64.87:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.85.128:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.85.128:80
 vless://6df800b7-d053-5232-9d0d-ac6c80a44e6c@172.67.221.68:2096?security=tls&sni=arkarain.arkarain-co.WorKers.dev&type=ws&host=arkarain.arkarain-co.WorKers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.68:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.84.32:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.84.32:443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.163.245:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.68.70:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.68.70:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.78:80
 vless://710102ef-2e66-4fe1-f245-45c42d524f46@104.21.28.188:80?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.28.188:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.73.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.73.148:80
-vless://329ebaee-b4ca-44a0-b124-9e8277c2b2e9@173.245.58.79:443?security=tls&sni=blog.tele-too.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.79:443
