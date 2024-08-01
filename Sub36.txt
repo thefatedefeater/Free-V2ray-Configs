@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjRjSzdBeGtFWDBzdjZMT09iVVAw@89.185.84.185:12575#%E6%9C%AA%E7%9F%A583
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.74:2053?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A584
 trojan://o1lRNAcx0Z@172.67.218.216:2053?security=tls&type=grpc&sni=vip.pegahtck.ir#%E6%9C%AA%E7%9F%A585
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.111.114.133:5004#%E6%9C%AA%E7%9F%A586%201.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZU5saWFDd3p2UENjUmptZjhPaVVX@95.181.161.101:62907#%E6%9C%AA%E7%9F%A587
@@ -603,3 +601,5 @@ vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@www.parspack.com:2095?encryption=no
 vless://Telegram-NUFiLTER@www.speedtest.net:8080?encryption=none&host=8.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣7️⃣
 vless://Parsashonam-22@104.21.19.124:8880?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣1️⃣
 vless://Parsashonam-21@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2Firancell.app&security=tls&sni=mail.offch.blog.&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣2️⃣
+vless://Parsashonam-21@104.24.185.137:8080?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣3️⃣
+vless://Parsashonam-21@104.21.19.124:8880?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣4️⃣
