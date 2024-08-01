@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A591
-trojan://NISHIKUITAN222@47.245.84.124:8443?security=tls&type=ws&sni=t010.ylks.link&path=/&host=t010.ylks.link#%E6%9C%AA%E7%9F%A592
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowc2hqRGVsNGxBaXhjaEhSV3BiVWZ1@147.45.125.172:64296#US45
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.137.71:7306#US46%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI=@38.207.154.30:40709#HK4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20182#%E6%9C%AA%E7%9F%A593
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5001#US47%201.9MB%2Fs
 trojan://telegram-id-directvpn@99.80.216.182:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A594
@@ -603,3 +598,8 @@ vless://join_VPNCUSTOMIZE@www.parsvds.ir:80?encryption=none&host=VPNcustomize-vp
 vless://Telegram-ipV2Ray-xae@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣1️⃣
 vless://Telegram-ipV2Ray-trw@www.speedtest.net:80?encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣
 vless://Telegram-ipV2Ray-zaw@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣3️⃣
+vless://Telegram-ipV2Ray-dse@www.speedtest.net:80?encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣4️⃣
+vless://Telegram-ipV2Ray-cad@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣5️⃣
+vless://Telegram-ipV2Ray-caw@www.speedtest.net:80?encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣
+vless://Telegram-ipV2Ray-nax@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣7️⃣
+vless://a164e41f-9046-4928-9bc0-9d6388b7ca5e@zula.ir:80?host=ch1.dontbow.store.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣1️⃣
