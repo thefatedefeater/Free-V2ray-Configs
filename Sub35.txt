@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8090
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.104.152:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.104.152:443
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.27.244:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.27.244:80
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.16.242.249:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.242.249:80
 ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.168.93:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.168.93:8880
 ss://ZTc5NGRhNDUtMGQ4ZC00YjdhLTlhZTktYjBiODQ1MjhiMzYwOg==@104.21.1.80:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.1.80:443
@@ -603,3 +600,6 @@ trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.v
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.225:9101#%E6%9C%AA%E7%9F%A534%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#%E6%9C%AA%E7%9F%A535%208.2MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiIxMjAuMjMyLjE1My4zNyIsInBvcnQiOiI0MjA1NSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+W5v+S4nCJ9
+trojan://NISHIKUITAN222@198.41.221.0:443?security=tls&type=ws&sni=t116.ylks.link&path=/&host=t116.ylks.link#%E6%9C%AA%E7%9F%A536
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499#US15%202.0MB%2Fs
+trojan://telegram-id-directvpn@51.20.210.67:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A537
