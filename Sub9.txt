@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://MjQyYjdmYjAtZDU5MC01N2JkLTk5MjQtMzgwOTJiNGE4ZjIxOg==@172.67.212.171:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.212.171:2087
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8882
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7306#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7306
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.160:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.59.160:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#🔒 SS-TCP-NA 🇮🇪 IE-13.94.117.31:10238
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.115:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.115:3389
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5004
@@ -603,3 +599,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?sni=a.ssll.gay&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.96:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chromefp=chrome&security=tls#12|EE_speednode_0075
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0076
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chromefp=chrome&security=tls#12|EE_speednode_0077
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodessecurity=tls#12|EE_speednode_0078
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|ES_speednode_0080
+vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@193.70.90.159:80?sni=vkvd127.mycdn.me&type=ws&path=/websocket#12|FR_speednode_0082
+trojan://2bf3db70-359e-11ef-93fe-1239d0255272@fr1.test3.net:443?allowInsecure=1&sni=namasha.com#12|FR_speednode_0083
