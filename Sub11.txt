@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=g2com&sni=partner.g2.com&type=grpc#رایگان | REALITY | @VmessProtocol | NO🇳🇴 | 0️⃣5️⃣
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?alpn=h2&encryption=none&fp=chrome&headerType=None&hiddify=1&host=de-02.tradex2080.com&mode=gun&path=gPGhgE3kwHBXqebAryGsQ&security=tls&serviceName=gPGhgE3kwHBXqebAryGsQ&sni=de-02.tradex2080.com&type=grpc#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣
 vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?alpn=http%2F1.1&encryption=none&fp=chrome&headerType=None&hiddify=1&host=fl1.tradex2080.com&path=%2Fuy4vb8KcMmQqnkXOdFN4WJ&security=tls&sni=fl1.tradex2080.com&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?alpn=h2&encryption=none&fp=chrome&host=de-04.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=de-04.tradex2080.com&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=de.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=de.tradex2080.com&type=ws#رایگان | VLESS | @DailyV2RY | LV🇱🇻 | 0️⃣4️⃣

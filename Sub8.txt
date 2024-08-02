@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://fb89083a4ba1df5@104.21.71.144:443?security=tls&sni=turk-net-shop.internetir.biz.tr&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.71.144:443
+trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇷🇺 RU-185.59.218.220:443
 trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.161:43118
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-188.114.98.0:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7307
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:3389
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.115:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.115:8888
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:805
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:5499
