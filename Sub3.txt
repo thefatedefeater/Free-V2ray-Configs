@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36213#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36215#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36271#%F0%9F%87%AC%F0%9F%87%A7%207%7C%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2001%20%7C%201x%20UK
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36721#%F0%9F%87%B2%F0%9F%87%BE%207%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20MY
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36741#%F0%9F%87%AA%F0%9F%87%B8%207%7C%F0%9F%87%AE%F0%9F%87%B3%E8%A5%BF%E7%8F%AD%E7%89%99%2001%20%7C%201x%20ES
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36731#%F0%9F%87%B9%F0%9F%87%AD%207%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%2001%20%7C%201x%20TH
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36371#%F0%9F%87%AE%F0%9F%87%B3%207%7C%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36411#%F0%9F%87%A6%F0%9F%87%BA%207%7C%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36441#%F0%9F%87%A8%F0%9F%87%A6%207%7C%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36471#%F0%9F%87%A9%F0%9F%87%AA%207%7C%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36511#%F0%9F%87%B7%F0%9F%87%BA%207%7C%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36571#%F0%9F%87%B9%F0%9F%87%B7%207%7C%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36611#%F0%9F%87%BA%F0%9F%87%A6%207%7C%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36641#%F0%9F%87%BB%F0%9F%87%B3%207%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFltSTBOV0UyTWkwMU5UQTRMVFJqT1RBdFlXSmtOQzFrTXpKaU5tTTBNelpqTURN@free.2weradf.xyz:36671#%F0%9F%87%A7%F0%9F%87%B7%207%7C%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM1pXSTVOelUyT1MwNE1USXpMVFJoTW1ZdFlUTXpaUzB4T1RNeFlqVmhaVEEwTjJN@free.2apzhfa.xyz:31141#%F0%9F%87%AD%F0%9F%87%B0%209%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E3%80%90%E5%9B%BD%E5%A4%96%E7%9B%B4%E8%BF%9E%E3%80%91
@@ -590,16 +603,3 @@ vless://d1e7f2d9-4cf8-4a00-b261-54c388f59a0e@162.159.44.157:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.219:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.219:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.221:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.39:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.39:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.209:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.67.209:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.57:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.229:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.249.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.249.194:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.96:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.96:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.153.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.251:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.75.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.75.4:80
-vless://da48b1cb-75b2-4589-a7d3-9ab9e616e77c@104.21.16.231:443?security=tls&sni=test.frekar.ir&type=ws&host=test.frekar.ir&path=/&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.231:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:2096
-vless://1e62032d-031e-4b99-876c-05761c82ae19@172.67.220.243:2096?security=tls&sni=dl.waltonweb.ir&type=ws&host=dl.waltonweb.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.243:2096
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.206.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.135:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.2.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.211:80
