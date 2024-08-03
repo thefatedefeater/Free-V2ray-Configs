@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.128.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.4:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.21:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:8080?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.149.134:8080
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:80?security=none&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
 vless://c49955ec-a0dc-496e-ea3b-c24fa5c87c82@104.26.15.85:443?security=tls&sni=reversepeyman1.cpionline.us&type=ws&host=reversepeyman1.cpionline.us&path=/ws/2053&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
@@ -601,5 +603,3 @@ vless://ca3a861b-bdc5-5d5d-41ab-3258aada40a4@81.12.92.135:15118?security=none&ty
 vless://8ae88ee2-2f11-46ad-8302-ba388712196a@162.159.128.233:2053?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.189.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.109:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.17.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.17.229:80
-vless://89cd187b-db2b-4e1a-a264-6abdc75bd5c3@162.159.130.234:8443?security=tls&sni=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&type=ws&host=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&path=Telegram:+@DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:8443
-vless://3351bedb-836a-4017-b966-fe11ddafede2@162.159.43.168:2083?security=tls&sni=pixel.miracleriders.top&type=ws&host=pixel.miracleriders.top&path=%2Fv2rayyngvpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.43.168:2083
