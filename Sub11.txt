@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0068
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chromefp=chrome&security=tls#12|EE_speednode_0070
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0071
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/security=tls#12|EE_speednode_0072
@@ -603,3 +602,4 @@ vless://d0e5c6a3-9afe-4686-a59e-ac66265ec3d9@172.64.133.252:80?encryption=none&h
 vless://d0e5c6a3-9afe-4686-a59e-ac66265ec3d9@www.parspack.com:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣
 vless://d0e5c6a3-9afe-4686-a59e-ac66265ec3d9@www.speedtest.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣5️⃣
 vless://9ce76e4b-619c-4f74-a39a-ac9714afad91@www.parspack.com:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣6️⃣
+vless://9ce76e4b-619c-4f74-a39a-ac9714afad91@www.speedtest.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣
