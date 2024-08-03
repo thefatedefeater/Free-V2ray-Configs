@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://71d85ba3-c15f-4024-f30f-ce3ce3b71a81@151.101.2.219:80?encryption=none&host=softgameriovlioebs69.ir&path=%2Flw%3Fed&security=none&type=ws#رایگان | VLESS | @Outline_Vpn | US🇺🇸 | 0️⃣4️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu&type=ws#رایگان | VLESS | @Outline_Vpn | US🇺🇸 | 0️⃣5️⃣
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?encryption=none&fp=chrome&host=vip1-romax-tiktok.hsjsak.ir&path=%2F&security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws#رایگان | VLESS | @Outline_Vpn | US🇺🇸 | 0️⃣6️⃣
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?encryption=none&fp=random&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws#رایگان | VLESS | @Outline_Vpn | US🇺🇸 | 0️⃣7️⃣
+vless://abaabe38-b551-48ad-bfee-98ac2f0ed838@104.16.128.215:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣1️⃣
+vless://Join-VPNCUSTOMIZE@braelyn.ns.cloudflare.com:80?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣2️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&fp=chrome&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣3️⃣
 vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=5JA5Y0-T4zvUCJ018TbvhhZ0jkNPjuUFbdm2K2Rwiz4&security=reality&sid=182f0114&sni=microsoft.com&spx=%2F&type=tcp#رایگان | REALITY | @prrofile_purple | NL🇳🇱 | 0️⃣5️⃣
 vless://e9e5e2f6-5c60-4641-aa6d-3fb70713a6cb@104.31.16.104:80?encryption=none&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&path=%2F&security=none&type=ws#رایگان | VLESS | @prrofile_purple | US🇺🇸 | 0️⃣6️⃣
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?encryption=none&host=12.V.V2.www.speedtest.net.a.www.speedtest.net.bahrane.iR.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣
