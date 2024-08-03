@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMSAjMSIsImFkZCI6IjIzLjIyNy4zOC42IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImlwMDA2LjMxOTY3NzIueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMiAjMSIsImFkZCI6IjEwNC4xOS41MS4yMzIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAwMDYuMzE5Njc3Mi54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMyAjMSIsImFkZCI6IjEwNC4xOS4zOC42MiIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDAwNi4zMTk2NzcyLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiNHxkKioqKioqKioqZy5jb21fMCAjMiIsImFkZCI6IjEwNC4xOS40Ni4yMzMiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAwMDUuMzE5Njc3Mi54eXoiLCJ0bHMiOiIifQ==
@@ -603,3 +602,4 @@ vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.196.20:2083?security=tls&sni
 vless://3bca6005-c1dc-4321-ab7a-ca086a240e36@2.19.169.119:443?security=tls&sni=joinbedevmessorg.xn--54qv00ez5ar77g.co&type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D443#🔒 VL-WS-TLS 🇬🇧 GB-2.19.169.119:443
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.150:443
 vless://0770c31f-bbf2-4c71-be1b-3ee6625ebba1@104.18.23.19:443?security=tls&sni=api4.htve.ir&type=ws&host=api4.htve.ir&path=%2F%3Fed%3D4096&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@104.21.69.44:2095?security=none&type=httpupgrade&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:2095
