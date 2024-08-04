@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.160.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.160.227:80
 vless://0edc1995-b3df-421b-88e1-9132f2e71252@172.67.218.226:2083?security=tls&sni=filimo.sezar3.ir&type=ws&path=%2FJoinChanel-%40proxyforopeta-telegram%3A%40proxyforopeta-telegram-proxyforopeta-joinchanel%40proxyforopeta.%40proxyforopeta.join-%40proxyforopeta.telegram%3A%40proxyforopeta&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.226:2083
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@183.178.22.246:11417?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇭🇰 HK-183.178.22.246:11417
@@ -602,4 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.11:443?security=tls&sni=
 vless://d956f18e-a9f5-43d4-e939-3b5962553d54@5.57.33.121:6262?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.121:6262
 vless://158a2a18-ba82-4208-af52-3bf650c94036@185.146.173.32:2095?security=none&type=ws&host=a.らわなさ.tech.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.32:2095
 vless://09c2b686-709f-4b1b-ad4c-47355f46e48e@79.175.188.39:35351?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.188.39:35351
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@104.26.12.54:443?security=tls&sni=ir.proxystorepanel.eu.org&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443

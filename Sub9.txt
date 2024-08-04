@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://873faaf6-4239-4017-8302-5b19aa9580bf@172.67.177.228:443?security=tls&sni=ch2.melobigg.site&type=ws&path=/melov2ray&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.228:443
 vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@162.159.137.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
 vless://b8ae9ff0-23f1-4393-ab9b-d8fa5dcad6e2@104.31.16.65:2095?security=none&type=ws&host=v2rayngvp.irch2.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2095
 vless://9dfe4105-ee73-4586-9d53-f0889a3767e6@173.245.58.31:2052?security=none&type=ws&host=p1.abrarvan.xyz&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:2052
@@ -602,4 +603,3 @@ trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.10.194:443?sni=msnghdfy4c1.
 trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.136.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
 trojan://telegram-id-privatevpns@51.20.112.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.112.93:22222
-trojan://telegram-id-privatevpns@51.20.236.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.236.168:22222
