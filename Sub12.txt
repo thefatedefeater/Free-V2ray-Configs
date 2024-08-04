@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://DigiV2raY@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣
-vless://DigiV2raY@payphone.ir:2095?encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣
-vless://DigiV2ray@zula.ir:2095?encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣5️⃣
 vless://DigiV2ray@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣6️⃣
 vless://DigiV2ray@payphone.ir:2095?encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣7️⃣
 vless://e3966665-79e5-4445-bc6d-8f1f955beba5@54.36.235.105:54028?headerType=http&host=speedtest.net&path=%2F%40DarkTeam_VPN-%40DarkTeam_VPN-%40DarkTeam_VPN-%40DarkTeam_VPN&security=none&type=tcp#رایگان | VLESS | @DarkTeam_VPN | DE🇩🇪 | 0️⃣1️⃣
