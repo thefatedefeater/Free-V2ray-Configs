@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@66.235.200.0:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.0:2087
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.25.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.25.123:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.11.146:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.146:443
 vless://dd5a38d3-71a0-4f22-8693-bad730adbd0b@162.159.7.247:443?security=tls&sni=sky.ararat3d.com&type=ws&host=sKy.ARaraT3d.cOm.&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443
@@ -601,5 +603,3 @@ vless://c13ddae9-6532-4acc-9cf2-fe6cc2661354@185.146.173.58:8880?security=none&t
 vless://4421a6a6-22c3-4c29-a40f-176748bbee74@104.17.148.22:8080?security=none&type=ws&host=DiReCt95-217-14-47.GamErmE12.IR&path=/DiReCt95-217-14-47.GamErmE12.IR#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:8080
 vless://58a92045-21e7-4668-867c-7bc906c54428@103.35.189.42:443?security=tls&sni=xxx-----------------AstroVPN-official-----------------xxxx---d.xxxx-----------pornhub-com-------------AstroVPN-official------x.workers.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.44.53:2087?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.53:2087
-vless://444dd74b-01c3-4e09-ab4a-2e850dfe6e51@185.146.173.96:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.96:8880
-vless://a5368290-9ce5-4fc4-9652-06221e6689fa@172.67.66.177:8880?type=ws&host=cdn1.yasinvps.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.66.177:8880
