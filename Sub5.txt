@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.44.73:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&host=pardazeshvpn-tg2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.73:443
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&type=ws&host=VFIvE-teLeGram.PAGEs.Dev&path=%2F5fz4m1ggihzpkyya%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.2:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.127.29:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.127.29:80
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.223:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.46:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.46:80
 vless://1e62032d-031e-4b99-876c-05761c82ae19@172.67.220.243:2096?security=tls&sni=dl.waltonweb.ir&type=ws&host=dl.waltonweb.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.243:2096
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.124.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.124.175:2083
@@ -599,7 +603,3 @@ vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@172.67.178.12:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.229:80
 vless://f20bcdc7-1a98-4573-aef5-653a40524c87@104.21.72.167:443?security=tls&sni=esetsecuritylicense.ltlumj.workers.dev&type=ws&host=esetsecuritylicense.ltlumj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.167:443
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
-vless://701d667b-e0b8-4601-9b95-4fd12ddbbb13@172.67.174.201:2095?security=none&type=ws&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR&path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.201:2095
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?security=tls&sni=filTer-1tg.pAges.DeV&type=ws&host=FIltEr-1tg.pagEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@46.105.170.124:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇷 FR-46.105.170.124:2053
-vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.245.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+%3A+%40vpn_xw+Telegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.245.203:443
