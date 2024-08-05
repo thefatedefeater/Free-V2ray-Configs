@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.125:80
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.29.175.110:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-100.29.175.110:22222
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.157:80
 vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.5.6:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.130.185:2053?security=tls&sni=hki.ylks.xyz&type=ws&host=hki.ylks.xyz&path=TG@juzibaipiao-橘子分享#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.185:2053
@@ -601,5 +603,3 @@ trojan://OVsFRZT5jG@172.67.191.189:443?security=tls&sni=web.teama.tk&type=ws&hos
 trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.237.153.228:443
 trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&sni=earya.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-185.180.13.70:43118
 trojan://telegram-id-privatevpns@15.236.192.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.192.139:22222
-trojan://auto@104.21.44.210:443?security=tls&sni=esetsecuritylicense1.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense1.bwnsmv.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.44.210:443
-trojan://M3lOal9RPR@146.56.171.71:30056?security=tls&sni=kkr100515a.go02.top#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.171.71:30056

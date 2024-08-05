@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@104.18.202.232:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.207:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@46.105.170.124:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇷 FR-46.105.170.124:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.147:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.147:80
 vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.12.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.134.123:443?security=tls&sni
 vless://5bcc242f-4821-4a34-8da3-d53b8794b468@80.249.113.11:20038?security=none&type=tcp&host=Webmail.yjc.ir&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-80.249.113.11:20038
 vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.134.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.182.117:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.117:443
-vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.211:80

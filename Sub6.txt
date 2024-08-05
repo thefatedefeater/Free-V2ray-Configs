@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@172.67.68.79:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.79:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.249.112:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.165.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.165.138:80
 vless://7b367d98-1fa4-4e0f-bd79-703b6a05f133@172.67.163.103:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.163.103:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.244:443
@@ -601,5 +603,3 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w
 vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.197.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2053
 vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.132.157:443?security=tls&sni=ads.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=chrome&allowInsecure=true#🔒 VL-WS-TLS 🇪🇸 ES-151.101.132.157:443
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443
-vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@104.18.202.232:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.207:80
