@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.39.4:443?security=tls&sni=de-04.tradex2080.com&type=ws&host=de-04.tradex2080.com&path=/gPGhgE3kwHBXqpNptGAxAtI0QM&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.4:443
+vless://56ba1dba-5ecc-4319-9c1d-04fda71a38c3@20.46.153.222:9616?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇪 AE-20.46.153.222:9616
 vless://dc3e3eac-30f8-4d5f-bc74-e58ac958339d@172.67.193.36:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:2095
 vless://d6200861-3330-47a2-b822-06e4761ffe74@104.17.148.22:443?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.26.190:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.26.190:80
@@ -601,5 +603,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?security=tls&sni
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?type=ws&host=cherry.berry.strawberry.我们生活在该死的地狱里.shop.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.52:8880
 vless://4d1255f7-3eae-45bb-92a5-8336bce6968f@45.131.4.79:2082?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.sarazirsina.ir.&path=ws%2F%3Fed%3D80#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.79:2082
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@104.24.196.20:8880?security=none&type=ws&host=up.sourceforge.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:8880
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.52:443
-vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.94:443
