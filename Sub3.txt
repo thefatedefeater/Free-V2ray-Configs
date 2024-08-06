@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36175#%F0%9F%87%B8%F0%9F%87%AC%207%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%201x%20SG
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36311#%F0%9F%87%B0%F0%9F%87%B7%207%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001%20%7C%201x%20KR
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36341#%F0%9F%87%B5%F0%9F%87%AD%207%7C%F0%9F%87%B5%F0%9F%87%AD%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%201x%20PH
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36211#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E3%80%90%E5%9B%BD%E5%A4%96%E7%9B%B4%E8%BF%9E%E3%80%91
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36213#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9UVTVOMkl4WVMwM1lURmhMVFJsT0RFdFlXTXhaUzFsT1dReFptUXhaV0UxTmpF@free.2weradf.xyz:36215#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
@@ -600,6 +603,3 @@ vless://ee55b2c7-1933-4ace-a14d-e5356134767c@104.17.148.22:80?security=none&type
 vless://ba33c8f1-d3c0-4b04-9e9f-b7990c528d4d@104.17.8.188:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.8.188:8080
 vless://b91b3053-9602-4a60-b848-ec0eafea2096@172.67.204.84:2096?security=tls&sni=VPz13sJUpuSKGcb4coAb722uF7351L6I0cpIduQVOgnxRsa9CGe8R8yHtp9.PAgES-DEv.SitE&type=ws&host=VPz13sJUpuSKGcb4coAb722uF7351L6I0cpIduQVOgnxRsa9CGe8R8yHtp9.PAgES-DEv.SitE&path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.186:443
-vless://94f51d56-204b-466b-b1d7-d397df9273d1@172.67.134.22:2095?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.134.22:2095
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.47:443?security=tls&sni=ju.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.47:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.109:443
