@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk5HUXdPVE0yWmkwd016UmxMVFJsT0RJdE9EaGlPQzAxTmpneU56Z3pabVJsWldN@free.2weradf.xyz:36731#%F0%9F%87%B9%F0%9F%87%AD%207%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%2001%20%7C%201x%20TH
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk5HUXdPVE0yWmkwd016UmxMVFJsT0RJdE9EaGlPQzAxTmpneU56Z3pabVJsWldN@free.2weradf.xyz:36371#%F0%9F%87%AE%F0%9F%87%B3%207%7C%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk5HUXdPVE0yWmkwd016UmxMVFJsT0RJdE9EaGlPQzAxTmpneU56Z3pabVJsWldN@free.2weradf.xyz:36411#%F0%9F%87%A6%F0%9F%87%BA%207%7C%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk5HUXdPVE0yWmkwd016UmxMVFJsT0RJdE9EaGlPQzAxTmpneU56Z3pabVJsWldN@free.2weradf.xyz:36441#%F0%9F%87%A8%F0%9F%87%A6%207%7C%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
@@ -603,3 +602,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.56.67:80?security=none&type=
 vless://6af4854b-9d20-405e-9801-0692845f3a7b@193.151.150.95:2080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.150.95:2080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.110.12:443?security=tls&sni=xxx.donated006.workers.dev&type=ws&host=xxx.donated006.workers.dev&path=%2F%40V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.110.12:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.51.147:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.51.147:80
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.135.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.135.232:8880
