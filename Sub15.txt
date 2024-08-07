@@ -3,23 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9a930dda-da56-4333-b40f-9d07bd2cc879@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣5️⃣
-vless://d2cd2739-42eb-4307-c06a-ae85bda761a4@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣6️⃣
-vless://0811015a-99a3-4cae-9d56-c3ad37f6cc72@185.146.173.32:2052?encryption=none&host=xn--047h.v2raxx6.shop.&path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @IBv2ray | SE🇸🇪 | 0️⃣1️⃣
-vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?mode=gun&serviceName=Telegram%3A%28&type=grpc#رایگان | VLESS | @V2FETCH | DE🇩🇪 | 0️⃣1️⃣
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@172.64.97.83:443?encryption=none&fp=randomized&host=ch3-vip-programs.hsjsak.ir&path=%2F%3FAMiR-Get-Tunnel%3D552+%40%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy&security=tls&sni=ch3-vip-programs.hsjsak.ir&type=ws#رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@18.195.7.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@54.93.120.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣
-trojan://telegram-id-privatevpns@13.60.114.101:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣
-trojan://telegram-id-privatevpns@51.20.242.24:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣
-trojan://telegram-id-privatevpns@54.77.167.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@34.250.54.161:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@18.170.158.220:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣
+trojan://telegram-id-privatevpns@54.93.120.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣4️⃣
+trojan://telegram-id-privatevpns@13.60.114.101:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣
+trojan://telegram-id-privatevpns@51.20.242.24:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣6️⃣
 trojan://telegram-id-directvpn@18.190.73.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@3.15.167.18:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@35.182.17.160:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣
 trojan://telegram-id-directvpn@99.79.154.196:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?headerType=none&security=tls&type=tcp#رایگان | TROJAN | @VmessProtocol | TW🇹🇼 | 0️⃣1️⃣
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cFo0K1p1c2FnaG9rc0NVUjc1TDJUVlEwekZQdWdXd2dwdURweVh6eG1jYz0=@157.90.175.156:80#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@218.250.217.111:81#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+HK%F0%9F%87%AD%F0%9F%87%B0+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
@@ -28,12 +20,12 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#%D8%B1%D8%A7%DB%8C%DA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVG9rc1l3QmVaV2NJZUtYUDZublU3@212.113.106.76:61992#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+SG%F0%9F%87%B8%F0%9F%87%AC+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRnhBWWdseFE2b01BV1ZhbTU1VW1B@77.83.246.74:33320#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxy_mtm+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 tuic://
 hy2://
 hy2://
