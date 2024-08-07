@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.234:443?security=tls&sni=hw.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.234:443
 vless://9760a35b-6609-45bf-a2af-c0ea3e94b725@217.60.238.56:6611?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇪 AE-217.60.238.56:6611
 vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@104.21.74.214:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:2087
 vless://6865584d-f1ed-4791-9f64-f9544bc14391@172.67.143.134:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&path=%2F%3Fed%3D2560&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.134:443
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.171:80?security=none&typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.99:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.99:443
 vless://a1acd85e-857f-4b89-9a5f-4ad83a35ef86@104.31.16.11:80?security=none&type=ws&host=forum.maroonagate.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.11:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.15.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.74:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.97.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.150:443
