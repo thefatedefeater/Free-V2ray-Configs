@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&host=00e463Dc.beSTVPn-4xi.PAgES.dEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.126:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.14.94:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.94:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.162.10:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.162.10:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.44.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.44.161:80
@@ -602,4 +603,3 @@ vless://a653f8d9-90a1-512b-998e-61af7b2f31c2@185.146.173.44:443?security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.59.235:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-51.44.59.235:22222
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.61.8:8080
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
-vless://4f430965-fb96-4a2e-c8cc-5e10d66e46ed@172.67.163.103:2096?security=tls&sni=sahari.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2096

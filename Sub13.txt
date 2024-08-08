@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3389
@@ -602,4 +603,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?allowInsecure=0&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.57.12.238:34237?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/TG@ZDYZ2?ed=2560fp=random&security=tls#12|HK_speednode_0140
 vless://7f14e42a-f453-4c39-a762-019ee493237d@8.210.142.146:12346?allowInsecure=0&sni=zhongkui.pages.dev&type=ws&host=zhongkui.pages.dev&path=/?end=security=tls#12|HK_speednode_0141
 vless://0b4501da-1e84-45bb-aba9-619de7d103e3@47.242.202.230:2087?allowInsecure=0&sni=19-1ch.pages.dev&type=ws&host=19-1ch.pages.dev&path=/?proxyip=146.56.162.25fp=random&security=tls#12|HK_speednode_0142
-vless://7f14e42a-f453-4c39-a762-019ee493237d@47.76.192.24:2053?allowInsecure=0&sni=zhongkui.pages.dev&type=ws&host=zhongkui.pages.dev&path=/?end=security=tls#12|HK_speednode_0143

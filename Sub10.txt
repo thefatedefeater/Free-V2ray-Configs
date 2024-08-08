@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.21:443?security=tls&sni=443.gooshttest.online&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.21:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.46.100:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.156.46.100:22222
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.125:2087
 vless://cb90b0ec-9f06-4b88-81d5-2e0c8c91e86b@103.184.44.104:8880?security=none&type=ws&host=LiV2rayb.lightningz.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:8880
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.164.5:80?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.100:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.100:80
 vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.18.96.186:8080?security=none&type=ws&host=Coc.unique69.com.&path=/HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.96.186:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.46.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.48:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.53.114:80
