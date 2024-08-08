@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d52c866c-a6bc-44a3-8b18-05572d09db5b@173.245.49.110:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.110:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.23:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.139:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.90:80
-vless://c9eb0fe9-09dd-495c-a11a-0f2e580c9c94@172.67.132.56:2096?security=tls&sni=shahabbabadii.shahab-jahanbazi79.workers.dev&type=ws&host=shahabbabadii.shahab-jahanbazi79.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.56:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.81.133:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.81.133:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.1:80
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?security=tls&sni=bia-vip-programs.hsjsak.ir&type=ws&host=bia-vip-programs.hsjsak.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.48:443
@@ -603,3 +597,9 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.171.108:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.103.203:38454?security=tls&sni=zw.linghang.buzz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:38454
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.156.39:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.156.39:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.151.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.151.120:80
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.14:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.14:443
+vless://f1ffb60d-07b6-4381-8ecf-c368f7c2762d@162.159.140.220:80?type=ws&host=mardi6.scorpion1.info&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.140.220:80
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.14.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
+vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@104.21.31.226:8880?security=none&type=httpupgrade&host=BeTa.V2RaYnNgG.tOP.&path=%2Fzula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%25%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.31.226:8880
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.219.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.219.74:80
