@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:443?security=tls&sni=sisand.waztow.WorKErs.dEv&type=ws&host=sisand.waztow.WorKErs.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@135.84.76.97:443?security=tls&sni=hv.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-135.84.76.97:443
 vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.162.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.157:80
 vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@104.21.28.188:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:2052
@@ -603,3 +601,5 @@ trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.5.6:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.5.6:443
 trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.161:43118
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
+trojan://telegram-id-privatevpns@34.243.215.85:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.243.215.85:22222
+trojan://saMgiangGt@104.21.92.190:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.92.190:443

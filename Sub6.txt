@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://641e9b7e-b286-4be6-8283-dd0ea34bb61b@45.159.219.252:8080?security=none&type=ws&host=dailyCONFIGS-DAILYconfigs-DAILYconfigs.speedtest.net.vigilantecollection.com.&path=DAILYConfigs%3Fed%3D8080#🔒 VL-WS-NONE 🇺🇸 US-45.159.219.252:8080
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@65.75.193.21:37813?security=tls&sni=xt.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.193.21:37813
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2083?security=tls&sni=hv.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.30:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.48:2096?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.48:2096
 vless://5d4fb4ee-cc86-4bdf-9777-ff6e759a8700@104.16.60.8:80?type=ws&host=slatdrres45rewrubikaeitasalam.dr-salam.com&path=/48608/Down#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80
@@ -603,3 +601,5 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.42.88.244:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.170.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.170.176:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.150.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.150.175:443
 vless://9617c7cd-133b-4ed0-be84-fc7493223f8c@172.64.145.113:8880?security=none&type=ws&host=falcunargo.3157c93401.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.113:8880
+vless://a75cb418-c1d6-476a-9464-ad1bd5181e3c@162.159.130.234:8080?security=none&type=ws&host=de.vpncustomize.Website&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:8080
+vless://519d3ac5-928a-42d2-9e86-7e44added154@188.114.99.180:80?security=none&type=ws&host=hfeew16002s.7d55ddc09b.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.180:80

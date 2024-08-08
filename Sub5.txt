@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.231.137:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.231.137:443
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@104.18.202.232:443?security=tls&sni=mindroom2-2kf.pages.dev&type=ws&host=mindroom2-2kf.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.233:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.108:8443?security=tls&sni=JOINMAhDiseRvER-4gk.Pages.DEV&type=ws&host=JOinmAhdisErVeR-4Gk.PaGes.dEv&path=%2FYH0qeiAFcfmP8p88%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.108:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.216:443
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.27:443?security=tls&sni=c
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.69:80
 vless://f23f2f26-99e5-44bb-bb5b-19de97c1d6d4@104.16.178.157:443?security=tls&sni=free.sw.moh539.link&type=ws&host=free.sw.moh539.link#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.178.157:443
 vless://f64de9bd-73e7-4666-94ad-4eef2a776f40@104.21.41.230:2083?security=tls&sni=ips.impervasec.com&type=grpc&serviceName=2083vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.41.230:2083
+vless://641e9b7e-b286-4be6-8283-dd0ea34bb61b@45.159.219.252:8080?security=none&type=ws&host=dailyCONFIGS-DAILYconfigs-DAILYconfigs.speedtest.net.vigilantecollection.com.&path=DAILYConfigs%3Fed%3D8080#🔒 VL-WS-NONE 🇺🇸 US-45.159.219.252:8080
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@65.75.193.21:37813?security=tls&sni=xt.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.193.21:37813
