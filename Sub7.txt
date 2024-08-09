@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.56:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.214.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.214.46:80
 vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.128.155:443?security=tls&sni=www.elledecor.com&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.155:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.205:80
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.109.124:80?security=none&typ
 vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@104.26.15.16:2095?security=none&type=httpupgrade&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.15.16:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.144:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.144:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.59.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.1:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.119.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.119.38:443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHRRSUcxVFg0RXR3QkRuYWxvR0I3@193.233.80.34:36981#🔒 SS-TCP-NA 🇩🇪 DE-193.233.80.34:36981
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS0kzdDJwbmxVUDV2S3FHdUxwdWNH@206.189.159.120:3074#🔒 SS-TCP-NA 🇸🇬 SG-206.189.159.120:3074
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.251:8080
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6697
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#US20%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.62.62:2375#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://saMgiangGt@172.67.180.110:443?security=tls&type=grpc&sni=teo.history-paint.art#%E6%9C%AA%E7%9F%A541
 trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com#%E6%9C%AA%E7%9F%A542%202.0MB%2Fs
-trojan://moist@47.236.158.158:2096?security=tls&type=ws&sni=trojan.freenods.sbs&host=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A543
