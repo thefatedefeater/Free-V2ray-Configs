@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://CMLiu@116.206.93.237:58755?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CJP_speednode_0179
+trojan://CMLiu@14.44.107.239:20202?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0182
 trojan://CMLiu@218.158.87.155:11423?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0183
 trojan://CMLiu@125.129.129.66:12245?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0184
 trojan://CMLiu@14.56.54.62:15443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0185
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.63.123:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.159.249:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.249:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.157.120:443
 vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@162.159.136.234:443?security=tls&sni=uk-cdn.pop-up-pool.xyz&type=ws&host=uk-cdn.pop-up-pool.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
-vless://b376779f-9028-4670-bd34-30b1dd7a5112@108.162.195.205:80?security=none&type=ws&host=www.speedtest.net.google.com.ir.darsonline1.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.195.205:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.175.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.175.220:443

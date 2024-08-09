@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@104.21.3.52:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.3.52:80
+vless://7efa43f4-17b6-46ae-a62e-7b764df45057@104.18.255.247:8443?security=tls&sni=6cb2aA5E.BpB-woRKEr-pANEL-3GD.PAGEs.dev&type=ws&host=6CB2AA5E.bpB-WoRkER-PaNel-3GD.paGEs.dev&path=/zttOLnmecHBW6WUO&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.255.247:8443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.0:80
 vless://5387472d-fb54-4d7d-90fc-4cb93083e397@89.23.126.154:443?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.23.126.154:443
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?type=ws&host=mkhy.daozhang.link#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.61.8:8080
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.189.230:80?security=none&typ
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.231:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.92.9.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.155:443
 vless://ff9f8fa9-7671-75c4-55ee-4c3df449f1e0@217.60.189.171:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.189.171:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.105:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.17.110.12]:443?security=tls&sni=xxx.donated005.workers.dev&type=ws&host=xxx.donated005.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:104.17.110.12]:443
