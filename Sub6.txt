@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.160.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.160.79:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.21.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.129:80
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.22.75.105:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.75.105:8080
 vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.241:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2083
@@ -603,3 +602,4 @@ vless://221a922e-3b0c-4d70-bb19-719188826ba9@141.101.113.178:8080?security=none&
 vless://f0922303-e24b-4906-b6e3-80fe0daea854@107.189.31.164:443?security=tls&sni=proxy.quickturboserver.com&type=splithttp&host=proxy.quickturboserver.com&path=/tClMH0V4j8vM7Ysq9IRZL&fp=chrome&alpn=h3#🔒 VL-SPLITHTTP-TLS 🇱🇺 LU-107.189.31.164:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.109.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.109.124:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.212:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.212:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.201.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.227:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://221621eb-8c16-42d4-9e41-c97c24e7044e@51.38.111.250:56768?security=none&type=tcp&host=speedtest.net&path=%2F%40DarkTeam_VPN-%40DarkTeam_VPN-%40DarkTeam_VPN-%40DarkTeam_VPN&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-51.38.111.250:56768
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.120.97:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.97:443
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.229:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.233.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.233.150:443
@@ -603,3 +602,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.145:80?security=none&typ
 vless://366236b3-b3cb-4097-9900-b46098a244b7@104.21.74.214:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2086
 vless://c0615218-5881-49d3-a008-03ca8359dc68@162.159.153.247:80?security=none&type=ws&host=ipv4dali.xwdil.ir&path=%2FDigiconnecT%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.247:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.95:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.6:80
