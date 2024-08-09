@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CMLiu@116.206.93.237:58755?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CJP_speednode_0179
 trojan://CMLiu@14.44.107.239:20202?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0182
 trojan://CMLiu@218.158.87.155:11423?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0183
 trojan://CMLiu@125.129.129.66:12245?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0184
@@ -603,3 +602,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.81.217:443?security=tls&sni=
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.220:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.220:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.48.7:443?security=tls&sni=pPaL03.yoDEC58325.woRkerS.Dev&type=ws&host=PPAL03.yodEc58325.WORKerS.DEv&path=%2FzQdUW0UDQh1Tsvcp%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.7:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.232:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.232:80
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.27:443
