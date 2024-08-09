@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.171.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.19:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.127.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.127.251:443
-vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@166.1.157.124:443?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-166.1.157.124:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@63.141.128.97:443?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.97:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.78.193:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.78.193:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.166.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.166.203:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.214.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.153:443
@@ -603,3 +599,7 @@ vless://f0387268-16be-4411-b110-dedb5cf36b5d@193.151.153.155:1014?security=none&
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-185.162.231.227:443
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&sni=falcunargo.1035ed931e.workers.dev&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8880
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.21:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.187:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.187:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.51.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.235:80
+vless://e96588e0-16d5-49eb-a680-baa9309957bb@172.67.204.84:8880?security=none&type=ws&host=www.speedtest.net.75.mralpha-vpn.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:8880

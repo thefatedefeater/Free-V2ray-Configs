@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.250.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.250.82:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.207.83:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.207.83:443
-vless://b91b3053-9602-4a60-b848-ec0eafea8443@104.21.69.44:8443?security=tls&sni=SvA6YRW81Y5ufirm5YaUbLbEtWl4DOcz8qePEbyzewnRqxLxYRNICZsezLr.pAgeS-dEV.site&type=ws&host=SvA6YRW81Y5ufirm5YaUbLbEtWl4DOcz8qePEbyzewnRqxLxYRNICZsezLr.pAgeS-dEV.site&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:8443
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.235.75:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.75:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.82.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.82.161:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.229:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir&path=%2FFtp.Debian.org%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.205.0.229:8080
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?security=tls&sni=dee33.azurewebsites.net&type=ws&host=dee33.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇭🇰 HK-20.189.104.97:443
@@ -603,3 +599,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.116:443?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.103.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.103.90:443
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?security=none&type=ws&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.249:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.10:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.10:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.199.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.199.0:80
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fedfp#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.90:8443
+vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:8443?security=tls&sni=sisand.waztow.wORkERS.dEv&type=ws&host=sisand.waztow.wORkERS.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:8443
